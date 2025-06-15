@@ -1,0 +1,501 @@
+event id,event name,event agency,event type,event borough,event location,event street side,street closure type,community board,police precinct,start_date,start_time,end_date,end_time
+590068.0,green arts - new york chinese cultural center presents chinese dance in the parks,Parks Department,Special Event,Manhattan,Columbus Park: Pavilion ,,,"3, ","5, ",2021-08-15,11:00:00,2021-08-15,13:00:00
+783620.0,new york city plus beach day 2024,Parks Department,Special Event,Queens,Rockaway Beach Boardwalk: Beach 108th Street,,,"14,","100,",2024-07-27,14:00:00,2024-07-27,18:00:00
+550145.0,summer on the hudson birding walks,Parks Department,Special Event,Manhattan,Riverside Park: Lawn-116th Street-RSP,,,"9,","26,",2021-09-10,17:30:00,2021-09-10,19:00:00
+612539.0,prospect park,Parks Department,Special Event,Brooklyn,"Prospect Park: Picnic House South ,Prospect Park: Picnic House",,,"55,","78,",2022-10-23,12:00:00,2022-10-23,17:00:00
+682370.0,monthly meeting,Parks Department,Special Event,Staten Island,Blue Heron Park: Blue Heron Park,,,"3,","123,",2023-06-06,20:00:00,2023-06-06,21:00:00
+798204.0,miscellaneous,Parks Department,Special Event,Brooklyn,Seth Low Playground: Multi Purpose Play Area 02,,,"11,","62,",2024-12-23,09:00:00,2024-12-23,14:00:00
+596716.0,sri chinmoy 3100 mile race,Parks Department,Special Event,Queens,Joseph Austin Playground: Perimeter Sidewalk,,,"8,","107,",2021-10-26,00:00:00,2021-10-26,23:59:00
+713125.0,von king park conservancy,Parks Department,Special Event,Brooklyn,Herbert Von King Park: Plaza,,,"3,","79,",2024-01-06,08:00:00,2024-01-06,19:00:00
+698739.0,miscellaneous,Parks Department,Special Event,Queens,Alley Pond Park: Alley Springfield BBQ Area Yellow,,,"11,","111,",2023-08-31,08:00:00,2023-08-31,16:00:00
+779174.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Van Voorhees Playground: Sitting Area   ,Van Voorhees Playground: Softball-01 ,Van Voorhees Playground: Basketball-01",,,"06, 6,","76,",2024-07-25,12:00:00,2024-07-25,14:00:00
+684438.0,bark the herald angels sing rain date,Parks Department,Special Event,Brooklyn,Prospect Park: Picnic House South,,,"55,","78,",2023-12-09,07:00:00,2023-12-09,10:00:00
+680646.0,sss cpe78 fall 23 dec,Parks Department,Special Event,Manhattan,Central Park: Lawn North of Levin Playground,,,"64,","22,",2023-12-21,15:30:00,2023-12-21,17:00:00
+631308.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Maria Hernandez Park: Central Plaza/Performance Area ,Maria Hernandez Park: Maria Hernandez Park-Basketball-01",,,"04, 4,","83,",2022-06-03,09:00:00,2022-06-03,14:00:00
+626137.0,community food distribution,Parks Department,Special Event,Bronx,Field Of Dreams Park: Field Of Dreams Park,,,"2,","41,",2022-03-10,10:00:00,2022-03-10,15:00:00
+742917.0,asian mental health awareness,Parks Department,Special Event,Queens,Pomonok Playground (PS 201): Pomonok Playground,,,"8,","107,",2023-10-29,12:00:00,2023-10-29,15:00:00
+794318.0,psal froshsoph city championships,Parks Department,Special Event,Bronx,Van Cortlandt Park: Cross Country Parade Ground Broadway 1,,,"26,","50,",2024-11-02,08:00:00,2024-11-02,13:00:00
+729679.0,color run,Parks Department,Special Event,Staten Island,Ocean Breeze Park: Ocean Breeze Cross Country Course,,,"2,","122,",2023-10-14,11:00:00,2023-10-14,14:00:00
+696363.0,cm robert holden motown rain date june 20,Parks Department,Special Event,Queens,Juniper Valley Park: Juniper Playground-Softball-08,,,"05,","104,",2023-06-20,19:00:00,2023-06-20,21:00:00
+763442.0,miscellaneous,Parks Department,Special Event,Manhattan,"Randall's Island Park: Sunken Meadow Picnic Area Green   ,Randall's Island Park: Sunken Meadow Fields-Softball-17 ,Randall's Island Park: Sunken Meadow Fields-Softball-18",,,"11,","25,",2024-06-18,08:00:00,2024-06-18,14:00:00
+634617.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Canarsie Park: Baseball-01 ,Canarsie Park: Softball-02",,,"18,","69,",2022-06-03,09:00:00,2022-06-03,14:00:00
+743992.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Bandshell ,Damrosch Park: Tent Area",,,"7,","20,",2024-01-27,00:00:00,2024-01-27,23:59:00
+699609.0,spring fling festival,Parks Department,Special Event,Manhattan,"Bella Abzug Park : Block 1 (between 33rd street & 34th street) ,Bella Abzug Park : Block 2 (between 34th street & 35th street)",,,"4,","10,",2023-06-17,14:00:00,2023-06-17,20:00:00
+734482.0,bike safety class - vcp - september,Parks Department,Special Event,Bronx,Van Cortlandt Park: Southwest MPPA,,,"26,","50,",2023-09-29,10:00:00,2023-09-29,17:00:00
+739185.0,sri chinmoy tranksgving day 5k10,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Ederle Terrace,,,"81,","110,",2024-11-28,08:00:00,2024-11-28,11:00:00
+752598.0,miscellaneous,Parks Department,Special Event,Queens,"Alley Pond Park: Upper Alley BBQ Area Orange   ,Alley Pond Park: Upper Alley BBQ Area Yellow ,Alley Pond Park: Upper Alley BBQ Area Green",,,"11,","111,",2024-06-12,09:00:00,2024-06-12,13:00:00
+810277.0,rosary crusade,Parks Department,Special Event,Queens,Sohncke Square: Sohncke Square,,,"2,","108,",2024-10-12,12:00:00,2024-10-12,14:00:00
+593414.0,daca is not enough- citizenship for all,Parks Department,Special Event,Manhattan,Thomas Paine Park (Foley Square): Thomas Paine Park (Foley Square) ,,,"1, ","5, ",2021-08-17,14:00:00,2021-08-17,17:00:00
+745011.0,prospect park fall foliage bike ride,Parks Department,Special Event,Brooklyn,Prospect Park: Park Circle / Machete Circle,,,"7,","72,",2023-11-11,11:00:00,2023-11-11,14:00:00
+635814.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Betsy Head Park: Baseball-01 ,Betsy Head Park: Softball-02",,,"16,","73,",2022-06-01,09:00:00,2022-06-01,14:00:00
+568180.0,miscellaneous,Parks Department,Special Event,Manhattan,Central Park: East Meadow Clay Area ,,,"64, ","22, ",2021-08-20,13:00:00,2021-08-20,16:00:00
+610515.0,classical theater production and reahearsals,Parks Department,Special Event,Manhattan,Riverside Park: Soliders & Sailors North Overlook,,,"7,","24,",2022-07-30,17:00:00,2022-07-30,21:00:00
+589374.0,pershing square summer sounds,Street Activity Permit Office,Plaza Event,Manhattan,Pershing Square Plaza: Pershing Square Plaza PARK AVENUE between EAST   41 STREET and EAST   42 STREET,Full,Pedestrian Plaza ,"5, ","14, ",2021-08-31,12:00:00,2021-08-31,15:00:00
+550728.0,sss cpw94 spring 21 june,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape A ,,,"64, ","22, ",2021-06-30,13:30:00,2021-06-30,17:30:00
+631912.0,uft disaster relief 5k family run-walk,Parks Department,Special Event,Brooklyn,Coney Island Beach & Boardwalk: W 30th St - W 37th St,,,"13,","60,",2022-05-14,11:00:00,2022-05-14,13:30:00
+711985.0,fun day at the play ground,Parks Department,Special Event,Brooklyn,Canarsie Park: East 84th Picnic Area (No BBQ),,,"18,","69,",2023-08-12,10:00:00,2023-08-12,19:00:00
+802967.0,cyclocross practice 2024,Parks Department,Special Event,Manhattan,"Randall's Island Park: Wards Meadow Picnic Area Blue ,Randall's Island Park: Wards Meadow Picnic Area Green ,Randall's Island Park: Wards Meadow Picnic Area Orange",,,"11,","25,",2024-11-06,19:00:00,2024-11-06,21:00:00
+648958.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Rainbow Playground: Rainbow Playground ,Rainbow Playground: Basketball-01",,,"07, 7,","72,",2022-08-19,09:00:00,2022-08-19,18:00:00
+717809.0,family yoga,Parks Department,Special Event,Brooklyn,Asser Levy Park: Lawn,,,"13,","60,",2023-08-06,10:00:00,2023-08-06,11:00:00
+609227.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Friends Field: Softball-01 ,Friends Field: Softball-02",,,"12,","66,",2022-05-19,09:00:00,2022-05-19,14:00:00
+764512.0,paramount movie nights in brooklyn,Parks Department,Special Event,Brooklyn,Prospect Park: Long Meadow North,,,"55,","78,",2024-07-03,20:00:00,2024-07-03,23:59:00
+673842.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Damrosch Park ,Damrosch Park: Sidewalks",,,"7,","20,",2023-01-11,00:00:00,2023-01-11,23:59:00
+612905.0,sss app-psk spr22wkd apr,Parks Department,Special Event,Queens,Alley Pond Park: Alley Springfield BBQ Area Blue,,,"11,","111,",2022-04-30,09:00:00,2022-04-30,12:00:00
+545845.0,miscellaneous,Parks Department,Special Event,Manhattan,Asser Levy Playground: Basketball-01 ,,,"06, ","13, ",2021-06-24,08:00:00,2021-06-24,11:00:00
+741267.0,seeds to trees bsnbcs field experience at prospect park,Parks Department,Special Event,Brooklyn,Prospect Park: Carousel Lawn North,,,"55,","78,",2023-10-19,10:00:00,2023-10-19,13:00:00
+546243.0,miscellaneous,Parks Department,Special Event,Manhattan,Riverside Park South: 66th Street Plaza ,,,"7, ","20, ",2021-06-24,10:00:00,2021-06-24,12:00:00
+709078.0,kks day,Parks Department,Special Event,Queens,Highland Park: Lower Lawn Area (Picnic Only NO BBQ),,,"5,","75,",2023-06-24,11:00:00,2023-06-24,18:00:00
+594806.0,weekend ad. - wilderness survival skills: fire making,Parks Department,Special Event,Staten Island,Willowbrook Park: BBQ Area 6,,,"2,","122,",2021-09-18,11:00:00,2021-09-18,12:30:00
+546248.0,miscellaneous,Parks Department,Special Event,Manhattan,Baruch Playground: Softball-01 ,,,"03, ","7, ",2021-06-23,08:00:00,2021-06-23,12:00:00
+577094.0,brooklyn dominican parade and festival inc,Police Department,Parade,Brooklyn," GRAHAM AVENUE between METROPOLITAN AVENUE and DEVOE STREET,  GRAHAM AVENUE between DEVOE STREET and DEBEVOISE STREET,  GRAHAM AVENUE between DEBEVOISE STREET and BROADWAY",Full,Full Street Closure ,"1, ","90, 94, ",2021-08-29,14:00:00,2021-08-29,16:00:00
+773967.0,pa' la calle wednesdays with somos latin dance,Parks Department,Special Event,Manhattan,Bella Abzug Park : Block 3 (between 35th street & 36th street),,,"4,","10,",2024-08-28,16:00:00,2024-08-28,20:00:00
+629344.0,easter morning worship service,Parks Department,Special Event,Queens,Francis Lewis Park: Francis Lewis Park,,,"7,","109,",2022-04-17,08:00:00,2022-04-17,09:00:00
+764274.0,miscellaneous,Parks Department,Special Event,Brooklyn,Washington Park (MS 51): Soccer-01B,,,"06,","78,",2024-07-23,09:30:00,2024-07-23,14:00:00
+514722.0,hudson warehouse,Parks Department,Special Event,Manhattan,Riverside Park: Soliders & Sailors North Overlook ,,,"7, ","24, ",2021-08-22,17:00:00,2021-08-22,20:00:00
+672971.0,mindfulness workshop,Parks Department,Special Event,Staten Island,Silver Lake Park: Silver Lake Park-Softball-01,,,"01,","120,",2022-10-09,11:00:00,2022-10-09,13:00:00
+706991.0,christian concert,Parks Department,Special Event,Brooklyn,Bensonhurst Park: Lawn Area,,,"11,","62,",2023-07-23,12:30:00,2023-07-23,16:30:00
+740008.0,miscellaneous,Parks Department,Special Event,Queens,"Juniper Valley Park: Baseball-01   ,Juniper Valley Park: Softball-04",,,"05,","104,",2024-06-11,08:00:00,2024-06-11,15:00:00
+782488.0,miscellaneous,Parks Department,Special Event,Brooklyn,John Allen Payne Park: Playground,,,"7,","72,",2024-08-16,08:00:00,2024-08-16,18:00:00
+617317.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Manhattan Beach Park: Softball-01 ,Manhattan Beach Park: Picnic Area 01",,,"15,","61,",2022-05-10,10:00:00,2022-05-10,14:00:00
+769720.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Mckinley Park: Lawn Area West   ,Mckinley Park: Basketball-01",,,"10,","68,",2024-08-16,08:45:00,2024-08-16,11:45:00
+686439.0,the brooklyn cyclones coney island classic 5k,Parks Department,Special Event,Brooklyn,Coney Island Beach & Boardwalk: W 19 St Performance Area,,,"13,","60,",2023-06-25,09:00:00,2023-06-25,13:00:00
+514787.0,summerstage festival - june,Parks Department,Special Event,Manhattan,"Central Park: Rumsey Playfield ,Central Park: Bandshell Plaza ",,,"64, ","22, ",2021-06-30,17:00:00,2021-06-30,22:00:00
+747779.0,sugar hill salon park concert 3 2024,Parks Department,Special Event,Manhattan,Jackie Robinson Park: Bandshell,,,"10,","30,",2024-07-26,15:00:00,2024-07-26,20:00:00
+705676.0,storytime in the park - june,Parks Department,Special Event,Manhattan,Marcus Garvey Park: Marcus Garvey Park,,,"11,","25,",2023-06-30,10:15:00,2023-06-30,11:00:00
+796615.0,meet the pollinators,Parks Department,Special Event,Manhattan,Sherman Creek: Riley - Levin Children's Garden,,,"12,","34,",2024-08-17,12:00:00,2024-08-17,15:00:00
+782420.0,storytime at cadman plaza park,Parks Department,Special Event,Brooklyn,Cadman Plaza Park: Tillary Street Plaza,,,"2,","84,",2024-09-04,10:00:00,2024-09-04,12:00:00
+545882.0,miscellaneous,Parks Department,Special Event,Manhattan,Abe Lebewohl Triangle: Sitting Area ,,,"3, ","9, ",2021-06-23,09:00:00,2021-06-23,13:00:00
+759585.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Marine Park: Softball-09   ,Marine Park: Softball-10 ,Marine Park: Softball-11 ,Marine Park: Softball-12 ,Marine Park: Softball-13",,,"18,","63,",2024-05-30,09:00:00,2024-05-30,14:00:00
+572200.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Bush Terminal Park: Baseball-01 ,Bush Terminal Park: Picnic Area North ",,,"07, 7, ","72, ",2021-08-20,09:30:00,2021-08-20,17:00:00
+569076.0,yoga on the beach with sonia,Parks Department,Special Event,Queens,Rockaway Beach and Boardwalk: Beach 32nd Street ,,,"14, ","101, ",2021-07-31,10:00:00,2021-07-31,11:00:00
+782490.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Rainbow Playground: Playground   ,Rainbow Playground: Basketball-01",,,"07, 7,","72,",2024-08-16,08:00:00,2024-08-16,18:00:00
+676882.0,2022.12.03 conference house park tree and shrub planting,Parks Department,Special Event,Staten Island,Conference House Park: Conference House Park,,,"3,","123,",2022-12-03,10:00:00,2022-12-03,13:00:00
+738609.0,summer on the hudson horticulture tour,Parks Department,Special Event,Manhattan,Riverside Park: Volunteer House-RSP,,,"7,","24,",2024-09-28,10:00:00,2024-09-28,11:30:00
+765566.0,the andrew j. cassius memorial beach volleyball tournament,Parks Department,Special Event,Brooklyn,Coney Island Beach & Boardwalk: Bays 1-5 (Brighton 2nd St. to Brighton 15th  Street),,,"13,","60,",2024-08-17,08:00:00,2024-08-17,19:00:00
+577687.0,citywide seasonal hires training,Parks Department,Special Event,Queens,"Flushing Meadows Corona Park: Flushing Meadows Corona Park ,Flushing Meadows Corona Park: Soccer-08 ,Flushing Meadows Corona Park: Soccer-09 ",,,"07, 3, 4, 6, 7, 8, ","109, 110, ",2021-05-18,09:00:00,2021-05-18,14:30:00
+679896.0,summer on the hudson amplified sundays,Parks Department,Special Event,Manhattan,Riverside Park South: 70th Street Pier Plaza,,,"7,","20,",2023-07-30,19:00:00,2023-07-30,21:00:00
+617490.0,sss jvp-psk spr22wkd apr,Parks Department,Special Event,Queens,Juniper Valley Park: Juniper Valley Park,,,"5,","104,",2022-04-30,09:00:00,2022-04-30,11:00:00
+641191.0,dj performance,Parks Department,Special Event,Brooklyn,Classon Playground: Recreation Area-Playground,,,"1,","90,",2022-08-28,15:00:00,2022-08-28,19:00:00
+652260.0,fred wilson sculpture unveiling,Parks Department,Special Event,Brooklyn,Columbus Park: North Plaza (Tillary),,,"2,","84,",2022-06-21,18:00:00,2022-06-21,19:30:00
+611658.0,greenbelt summer camp,Parks Department,Special Event,Staten Island,"Blood Root Valley: Greenbelt Recreation Center-Soccer-01 ,Blood Root Valley: Greenbelt Recreation Center-Basketball-01 ,Blood Root Valley: Greenbelt Recreation Center-Basketball-02",,,"02,","122,",2022-08-18,09:00:00,2022-08-18,17:00:00
+683879.0,miscellaneous,Parks Department,Special Event,Queens,Vito Locascio Field / Loring Field: Vito Locascio Field (Loring),,,"10,","106,",2023-05-11,08:30:00,2023-05-11,13:00:00
+681227.0,sss cpw94 sum 23 august,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape A,,,"64,","22,",2023-08-31,09:00:00,2023-08-31,13:00:00
+676000.0,sar guardian reception dinner,Street Activity Permit Office,Production Event,Manhattan,DYCKMAN STREET between STAFF STREET and DEAD END,South,Curb Lane Only,"12,","34,",2022-10-27,09:00:00,2022-10-27,23:00:00
+637020.0,storytime in the nature,Parks Department,Special Event,Brooklyn,Brower Park (PS 289 - Playground Only): Lawn Area,,,"8,","77,",2022-05-11,10:30:00,2022-05-11,12:30:00
+721613.0,pccs field day,Parks Department,Special Event,Staten Island,"Franklin D Roosevelt Boardwalk and Beach: BBQ Area 5 Midland ,Franklin D Roosevelt Boardwalk and Beach: Midland Beach-Softball-08",,,"95,","122,",2023-06-29,12:00:00,2023-06-29,16:00:00
+629520.0,miscellaneous,Parks Department,Special Event,Manhattan,Randall's Island Park: Wards Meadow Fields-Soccer-74,,,"11,","25,",2022-05-19,10:00:00,2022-05-19,13:00:00
+550171.0,philuponcandy,Parks Department,Special Event,Manhattan,Central Park: Cop Cot ,,,"64, ","22, ",2021-08-01,14:00:00,2021-08-01,16:00:00
+734469.0,bike safety class - crotona - september,Parks Department,Special Event,Bronx,Crotona Park: Crotona Park,,,"3,","42,",2023-09-17,10:00:00,2023-09-17,16:00:00
+681018.0,richard iii,Parks Department,Special Event,Manhattan,Central Park: The Pool Lawns,,,"64,","22,",2023-05-31,10:00:00,2023-05-31,17:00:00
+631290.0,miscellaneous,Parks Department,Special Event,Queens,Cunningham Park: Picnic Pink 2,,,"8,","107,",2022-06-15,09:00:00,2022-06-15,13:00:00
+798386.0,summer camp swimming at lyons pool,Parks Department,Special Event,Staten Island,Lyons Pool: Pool2,,,"1,","120,",2024-08-23,11:00:00,2024-08-23,13:00:00
+635924.0,miscellaneous,Parks Department,Special Event,Queens,Cunningham Park: Picnic Yellow 1,,,"8,","107,",2022-05-26,09:30:00,2022-05-26,13:00:00
+788526.0,wellcome care health fair,Parks Department,Special Event,Queens,Bayswater Park: Performance Space,,,"14,","101,",2024-08-17,10:00:00,2024-08-17,16:00:00
+586104.0,copa cabrini and instituto atletico morelia,Parks Department,Special Event,Manhattan,"Randall's Island Park: East River Fields-Soccer-81 ,Randall's Island Park: East River Fields-Soccer-80 ,Randall's Island Park: Wards Meadow Fields-Soccer-71 ",,,"11, ","25, ",2021-08-22,10:00:00,2021-08-22,18:00:00
+620192.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Sunset Park: Soccer-01A ,Sunset Park: Soccer-01B ,Sunset Park: Center Lawn",,,"07, 7,","72,",2022-03-30,09:00:00,2022-03-30,14:00:00
+809827.0,bowne park tai chi,Parks Department,Special Event,Queens,Bowne Park: Bowne Park,,,"7,","109,",2024-09-30,08:00:00,2024-09-30,10:15:00
+659201.0,mta queens bus network redesign outdoor public outreach,Parks Department,Special Event,Queens,Forest Park: Forest Park,,,"5, 6, 9,","75,",2022-08-16,15:00:00,2022-08-16,19:00:00
+740014.0,miscellaneous,Parks Department,Special Event,Queens,"Juniper Valley Park: Baseball-01   ,Juniper Valley Park: Softball-03",,,"05,","104,",2024-06-12,09:00:00,2024-06-12,15:00:00
+666582.0,october 2022 adoption drive--every saturday in october,Parks Department,Special Event,Manhattan,Union Square Park: Southwest Corner,,,"5,","13,",2022-10-29,10:00:00,2022-10-29,19:00:00
+593348.0,family fun day- school supply drive,Parks Department,Special Event,Brooklyn,Canarsie Park: Performance Area (No Amplified Sound NO BBQ)  ,,,"18, ","69, ",2021-08-14,12:00:00,2021-08-14,17:00:00
+712240.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Sunset Park: Center Lawn ,Sunset Park: Softball-01",,,"07, 7,","72,",2023-08-14,09:00:00,2023-08-14,17:00:00
+680186.0,al goldstein speed series,Parks Department,Special Event,Brooklyn,"Prospect Park: LeFrak Center at Lakeside ,Prospect Park: Park Drive - WHOLE DRIVE",,,"55,","78,",2023-08-16,19:00:00,2023-08-16,20:00:00
+680268.0,classical concert,Parks Department,Special Event,Manhattan,Central Park: Bandshell Plaza,,,"64,","22,",2023-03-31,15:00:00,2023-03-31,19:00:00
+678810.0,nyrr open run flushing meadows corona park,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Zoo Large Event Area,,,"81,","110,",2022-12-29,19:00:00,2022-12-29,20:00:00
+673842.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Damrosch Park ,Damrosch Park: Sidewalks",,,"7,","20,",2023-01-11,00:00:00,2023-01-11,23:59:00
+545878.0,miscellaneous,Parks Department,Special Event,Manhattan,Riverside Park: Playground-River Run-RSP ,,,"7, ","20, ",2021-06-23,08:00:00,2021-06-23,12:00:00
+700649.0,kingman classic,Parks Department,Special Event,Manhattan,Central Park: Bowling Green Lawn,,,"64,","22,",2023-10-01,09:00:00,2023-10-01,17:00:00
+609843.0,sss cpe97 fall 22 nov,Parks Department,Special Event,Manhattan,Central Park: West 96th Street Landscape,,,"64,","22,",2022-11-30,13:30:00,2022-11-30,17:30:00
+718438.0,kips bay boys and girls basketball clinics,Parks Department,Special Event,Bronx,"Ferry Point Park: Playground  (126-04A) ,Ferry Point Park: Basketball-01",,,"10,","45,",2023-09-30,10:00:00,2023-09-30,17:00:00
+777632.0,miscellaneous,Parks Department,Special Event,Queens,Ampere Playground: Ampere Playground,,,"9,","102,",2024-06-20,09:00:00,2024-06-20,11:00:00
+797829.0,bike safety class - mccarren - august,Parks Department,Special Event,Brooklyn,McCarren Park: Bayard/Union Lawns,,,"1,","94,",2024-08-22,09:00:00,2024-08-22,18:00:00
+729395.0,hooping for peace and equality,Parks Department,Special Event,Queens,"Cambria Playground/Cabbell Park: Cambria Playground (Frederick Cabbell Park) ,Cambria Playground/Cabbell Park: Basketball-01 ,Cambria Playground/Cabbell Park: Basketball-02",,,"13,","105,",2023-09-10,10:00:00,2023-09-10,18:00:00
+751860.0,religious event - aug 3 - aug 5 - aug 15 - aug 24,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Vatican Pavillion,,,"81,","110,",2024-08-24,16:30:00,2024-08-24,23:30:00
+808976.0,alphasense park pitch in,Parks Department,Special Event,Manhattan,Washington Square Park: Washington Square Park,,,"2,","6,",2024-10-25,09:00:00,2024-10-25,12:00:00
+743899.0,bailey park,Parks Department,Special Event,Bronx,Bailey Playground: Bailey Playground,,,"8,","50,",2024-06-16,09:00:00,2024-06-16,19:00:00
+760283.0,2024 ny art book fair,Street Activity Permit Office,Production Event,Manhattan,WEST   22 STREET between 11 AVENUE and 10 AVENUE,South,Sidewalk and Curb Lane Closure,"4,","10,",2024-04-26,07:30:00,2024-04-26,22:00:00
+546248.0,miscellaneous,Parks Department,Special Event,Manhattan,Baruch Playground: Softball-01 ,,,"03, ","7, ",2021-06-23,08:00:00,2021-06-23,12:00:00
+616668.0,cityparks tennis - pelham bay park renewal,Parks Department,Special Event,Bronx,"Pelham Bay Park: Tennis-01 South ,Pelham Bay Park: Tennis-02 South ,Pelham Bay Park: Tennis-03 South",,,"28,","45,",2022-08-18,13:00:00,2022-08-18,16:00:00
+633473.0,seeds to trees ps84 field experience at prospect park,Parks Department,Special Event,Brooklyn,Prospect Park: Lakeshore,,,"55,","78,",2022-05-13,10:00:00,2022-05-13,13:00:00
+753124.0,miscellaneous,Parks Department,Special Event,Queens,"Alley Pond Park: Alley Springfield BBQ Area Purple   ,Alley Pond Park: Alley Springfield BBQ Area Pink",,,"11,","111,",2024-05-23,10:00:00,2024-05-23,13:00:00
+694734.0,miscellaneous,Parks Department,Special Event,Queens,Playground Twenty One: Playground Twenty One,,,"7,","109,",2023-06-02,07:30:00,2023-06-02,14:30:00
+551009.0,sss cpe97c fall21 oct,Parks Department,Special Event,Manhattan,Central Park: East Meadow Clay Area,,,"64,","22,",2021-10-29,13:30:00,2021-10-29,17:30:00
+697942.0,crates in the park dj performance,Parks Department,Special Event,Brooklyn,"Commodore Barry Park: Performance Space ,Commodore Barry Park: Lawn/Sitting Area",,,"2,","88,",2023-10-01,13:00:00,2023-10-01,17:00:00
+730731.0,storytime with bpl,Parks Department,Special Event,Brooklyn,Cadman Plaza Park: Tillary Street Plaza,,,"2,","84,",2023-09-20,10:00:00,2023-09-20,12:00:00
+751099.0,miscellaneous,Parks Department,Special Event,Queens,Vito Locascio Field / Loring Field: Vito Locascio Field (Loring),,,"10,","106,",2024-05-23,09:00:00,2024-05-23,13:30:00
+597739.0,fx impeachment: american crime story activation,Parks Department,Special Event,Manhattan,The High Line: 14th Street Passage,,,"2,","6,",2021-09-07,07:00:00,2021-09-07,09:00:00
+584225.0,summer school field day,Parks Department,Special Event,Bronx,"Williamsbridge Oval: Scenic Tables ,Williamsbridge Oval: Plgd w/ Mini Pool & Courts-Basketball-01 ",,,"07, 7, ","52, ",2021-08-04,13:00:00,2021-08-04,15:00:00
+740548.0,sss app-psk fall23 wknd oct,Parks Department,Special Event,Queens,Alley Pond Park: Parking Lot 01 - Springfield,,,"11,","111,",2023-10-29,09:00:00,2023-10-29,11:00:00
+620055.0,polish constitution day run,Parks Department,Special Event,Queens,Forest Park: Trails Orange,,,"82,","102,",2022-05-01,09:00:00,2022-05-01,12:00:00
+678765.0,electrical menorah display cadman,Parks Department,Special Event,Brooklyn,Cadman Plaza Park: Cadman Plaza Park,,,"2,","84,",2022-12-29,09:00:00,2022-12-29,16:00:00
+562269.0,welcoming baby vincent jeremiah iii baby shower,Parks Department,Special Event,Staten Island,Franklin D Roosevelt Boardwalk and Beach: BBQ Area 1 Midland ,,,"95, ","122, ",2021-05-22,16:00:00,2021-05-22,20:00:00
+659768.0,la naval de manila procession,Police Department,Parade,Queens,"138-65 BARCLAY AVENUE, BARCLAY AVENUE between UNION STREET and 147 STREET,  147 STREET between BARCLAY AVENUE and 41 AVENUE,  41 AVENUE between 147 STREET and UNION STREET,  UNION STREET between 41 AVENUE and BARCLAY AVENUE",,Full Street Closure,"7,","109,",2022-10-02,14:30:00,2022-10-02,15:30:00
+601630.0,outdoor gym for hyde leadership,Parks Department,Special Event,Bronx,Riverdale Park: Riverdale Park,,,"8,","50,",2021-12-23,08:00:00,2021-12-23,14:00:00
+804035.0,dia de los muertos,Parks Department,Special Event,Manhattan,Father Duffy Square: Father Duffy Square,,,"5,","18,",2024-11-02,11:00:00,2024-11-02,21:00:00
+609201.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Lincoln Terrace / (Arthur S. Somers Park): Baseball-01 ,Lincoln Terrace / (Arthur S. Somers Park): Central Lawn",,,"08, 8,","77,",2022-05-19,09:00:00,2022-05-19,14:00:00
+708525.0,congrats grad,Parks Department,Special Event,Brooklyn,Prospect Park: 15th Street Lawn North,,,"55,","78,",2023-06-24,13:00:00,2023-06-24,19:00:00
+745219.0,santa's knights and gladiators nyc,Parks Department,Special Event,Manhattan,Central Park: Lawn Behind the Met Museum,,,"64,","22,",2024-08-10,12:00:00,2024-08-10,16:00:00
+761804.0,feeling outdoor art gallery,Parks Department,Special Event,Manhattan,Washington Square Park: Garibaldi Plaza,,,"2,","6,",2024-08-26,12:00:00,2024-08-26,17:00:00
+569086.0,nyrr open highland park,Parks Department,Special Event,Queens,Highland Park: Reservoir Path ,,,"5, ","104, ",2021-05-29,09:00:00,2021-05-29,10:00:00
+676345.0,parade,Parks Department,Special Event,Manhattan,Dag Hammarskjold Plaza: First Avenue Plaza,,,"6,","17,",2022-10-28,11:00:00,2022-10-28,17:00:00
+546182.0,miscellaneous,Parks Department,Special Event,Manhattan,Sidney Hillman Playground: Basketball-01 ,,,"03, ","7, ",2021-06-23,08:00:00,2021-06-23,12:00:00
+784073.0,community rowing and sailing,Parks Department,Special Event,Bronx,Hunts Point Riverside Park: Hunts Point Riverside Park,,,"2,","41,",2024-08-31,11:00:00,2024-08-31,17:00:00
+700930.0,whitestone memorial day parade,Police Department,Parade,Queens,"149 STREET between 15 DRIVE and 16 ROAD,  149 STREET between 15 DRIVE and 12 AVENUE,  12 AVENUE between 149 STREET and 150 STREET,  150 STREET between 12 AVENUE and 16 ROAD,  16 ROAD between 150 STREET and 149 STREET,  149 STREET between 15 DRIVE and 16 ROAD",Both,Full Street Closure,"7,","109,",2023-05-29,12:00:00,2023-05-29,14:00:00
+515015.0,central park dance skaters association,Parks Department,Special Event,Manhattan,Central Park: Dead Road North ,,,"64, ","22, ",2021-07-31,14:45:00,2021-07-31,18:45:00
+815333.0,nature puppet show,Parks Department,Special Event,Bronx,Crotona Park: Crotona Park,,,"3,","42,",2024-11-02,13:00:00,2024-11-02,15:00:00
+563791.0,city parks track and field - pelham bay,Parks Department,Special Event,Bronx,Pelham Bay Park: Track-01 ,,,"28, ","45, ",2021-08-18,09:00:00,2021-08-18,12:00:00
+738674.0,tanabata star gazing,Parks Department,Special Event,Manhattan,Riverside Park: Lawn-116th Street-RSP,,,"9,","26,",2024-07-06,19:00:00,2024-07-06,23:00:00
+679745.0,bric celebrate brooklyn - free shows,Parks Department,Special Event,Brooklyn,Prospect Park: Bandshell,,,"55,","78,",2023-08-22,11:00:00,2023-08-22,22:00:00
+757170.0,the go off,Parks Department,Special Event,Staten Island,Tappen Park: Tappen Park - Whole Park,,,"1,","120,",2024-07-14,15:00:00,2024-07-14,20:00:00
+779164.0,1199employmnet center recruitment event,Parks Department,Special Event,Staten Island,Franklin D Roosevelt Boardwalk and Beach: Fishing Pier Gazebos (SouthEnd),,,"95,","122,",2024-09-05,10:00:00,2024-09-05,15:00:00
+625266.0,miscellaneous,Parks Department,Special Event,Bronx,Pelham Bay Park and Orchard Beach: Orchard Beach - Cement/Rink Area,,,"28,","45,",2022-08-01,10:00:00,2022-08-01,15:00:00
+627190.0,miscellaneous,Parks Department,Special Event,Brooklyn,Robert Venable Park: Playground,,,"5,","75,",2022-06-06,09:00:00,2022-06-06,14:00:00
+735243.0,outdoor movie screening,Parks Department,Special Event,Manhattan,Inwood Hill Park: Dyckman Point,,,"12,","34,",2023-09-15,20:00:00,2023-09-15,21:00:00
+795673.0,bensonhurst park summer concert,Parks Department,Special Event,Brooklyn,Bensonhurst Park: Central Lawn,,,"11,","62,",2024-07-27,15:00:00,2024-07-27,18:00:00
+648972.0,miscellaneous,Parks Department,Special Event,Manhattan,Central Park: Mineral Springs,,,"64,","22,",2022-07-28,15:00:00,2022-07-28,19:00:00
+628708.0,miscellaneous,Parks Department,Special Event,Manhattan,James J Walker Park: Soccer-01,,,"02,","6,",2022-08-25,10:00:00,2022-08-25,14:00:00
+680820.0,sss cpe97c fall 23 nov,Parks Department,Special Event,Manhattan,Central Park: East Meadow Clay Area,,,"64,","22,",2023-11-30,13:30:00,2023-11-30,17:30:00
+619975.0,miscellaneous,Parks Department,Special Event,Manhattan,Luther Gulick Playground: Sitting Area,,,"3,","7,",2022-07-28,09:30:00,2022-07-28,12:30:00
+738460.0,dancing in the park,Parks Department,Special Event,Queens,Rockaway Beach and Boardwalk: Beach 94th Street,,,"14,","100,",2024-07-27,15:00:00,2024-07-27,21:00:00
+813369.0,stt ps 22 fe at latourette park,Parks Department,Special Event,Staten Island,LaTourette Park & Golf Course: Model Airplane Field,,,"2,","122,",2024-10-24,10:00:00,2024-10-24,13:00:00
+600983.0,lady capulet,Parks Department,Special Event,Manhattan,Central Park: Summit Rock,,,"64,","22,",2021-10-21,14:00:00,2021-10-21,16:00:00
+773908.0,yoga saturdays,Parks Department,Special Event,Manhattan,Bella Abzug Park : Block 2 (between 34th street & 35th street),,,"4,","10,",2024-10-26,10:30:00,2024-10-26,11:15:00
+758221.0,it's my park monday - boathouse,Parks Department,Special Event,Brooklyn,Prospect Park: Audubon Center w/ BH,,,"55,","78,",2024-10-07,10:00:00,2024-10-07,12:00:00
+550917.0,miscellaneous,Parks Department,Special Event,Brooklyn,Red Hook Recreation Area: Soccer-06 ,,,"06, ","76, ",2021-09-03,09:00:00,2021-09-03,15:00:00
+611896.0,touch worldwide - adm investor day,Street Activity Permit Office,Production Event,Manhattan,"EAST   38 STREET between 5 AVENUE and MADISON AVENUE,  EAST   37 STREET between 5 AVENUE and MADISON AVENUE",South,Curb Lane Only,"5,","14,",2021-12-10,15:00:00,2021-12-10,15:30:00
+806936.0,paramount domino park,Street Activity Permit Office,Production Event,Brooklyn,"SOUTH    2 STREET between KENT AVENUE and WYTHE AVENUE,  SOUTH    4 STREET between KENT AVENUE and WYTHE AVENUE",North,Curb Lane Only,"1,","90,",2024-09-07,07:00:00,2024-09-09,07:00:00
+686780.0,miscellaneous,Parks Department,Special Event,Brooklyn,Marine Park: Lawn (Fillmore Avenue),,,"18,","63,",2023-08-24,10:00:00,2023-08-24,15:00:00
+567198.0,american symphony orchestra pop-up,Parks Department,Special Event,Manhattan,Bryant Park: Fountain Terrace ,,,"5, ","14, ",2021-05-18,17:30:00,2021-05-18,18:30:00
+702108.0,august 2023 adoption drive--every saturday in august,Parks Department,Special Event,Manhattan,Union Square Park: Southwest Corner,,,"5,","13,",2023-08-26,11:00:00,2023-08-26,19:00:00
+814968.0,guru nanaks prakash,Police Department,Parade,Queens,"101 AVENUE between 113 STREET and 114 STREET,  114 STREET between 101 AVENUE and 103 AVENUE,  114 STREET between 101 AVENUE and 103 AVENUE,  101 AVENUE between 114 STREET and 111 STREET,  111 STREET between 101 AVENUE and LIBERTY AVENUE,  LIBERTY AVENUE between 111 STREET and 123 STREET,  123 STREET between LIBERTY AVENUE and ATLANTIC AVENUE,  ATLANTIC AVENUE between 123 STREET and 118 STREET,  118 STREET between ATLANTIC AVENUE and 101 AVENUE,  101 AVENUE between 118 STREET and 114 STREET",Both,Full Street Closure,"10, 9,","102, 106,",2024-11-09,12:00:00,2024-11-09,19:00:00
+745392.0,annual back to school event w/ d.j. performance,Parks Department,Special Event,Brooklyn,Herbert Von King Park: Amphitheater,,,"3,","79,",2024-08-25,15:00:00,2024-08-25,19:00:00
+699521.0,miscellaneous,Parks Department,Special Event,Manhattan,Central Park: East 106th St Lawn,,,"64,","22,",2023-07-31,09:00:00,2023-07-31,12:00:00
+775387.0,nyc carpenters charity softball,Parks Department,Special Event,Queens,"Cunningham Park: Cunningham Park   ,Cunningham Park: Softball-08 ,Cunningham Park: Softball-09 ,Cunningham Park: Softball-13 ,Cunningham Park: Softball-12 ,Cunningham Park: Baseball-14 ,Cunningham Park: Softball-16 ,Cunningham Park: Softball-17 ,Cunningham Park: Softball-15",,,"08, 11,","107,",2024-09-21,10:00:00,2024-09-21,17:00:00
+713869.0,not so grimm central park - working title,Parks Department,Special Event,Manhattan,Central Park: Bandshell Plaza,,,"64,","22,",2023-09-18,15:30:00,2023-09-18,19:00:00
+632199.0,shakespeare play,Parks Department,Special Event,Brooklyn,Carroll Park: Park House Plaza,,,"6,","76,",2022-06-11,18:00:00,2022-06-11,22:00:00
+546248.0,miscellaneous,Parks Department,Special Event,Manhattan,Baruch Playground: Softball-01 ,,,"03, ","7, ",2021-06-23,08:00:00,2021-06-23,12:00:00
+648950.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Pena Herrera Park (PS 1): Basketball-01 ,Pena Herrera Park (PS 1): Playground 46th St",,,"07, 7,","72,",2022-08-19,09:00:00,2022-08-19,18:00:00
+706288.0,miscellaneous,Parks Department,Special Event,Manhattan,"East River Park: Softball-07 ,East River Park: Softball-08",,,"03,","9,",2023-05-11,09:00:00,2023-05-11,15:00:00
+673846.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Bandshell ,Damrosch Park: Tent Area",,,"7,","20,",2023-01-11,00:00:00,2023-01-11,23:59:00
+636938.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Jesse Owens Playground: Plaza ,Jesse Owens Playground: Basketball-01 Full Court ,Jesse Owens Playground: Youth-Multipurpose Play Area-01",,,"3,","81,",2022-06-10,10:00:00,2022-06-10,13:30:00
+564323.0,love your park pop-up - bronx park east,Parks Department,Special Event,Bronx,Bronx Park: Bronx Park ,,,"11, 12, 6, 7, ","48, ",2021-04-07,14:00:00,2021-04-07,18:00:00
+731625.0,cousins softball game,Parks Department,Special Event,Staten Island,"Willowbrook Park: Softball-05 ,Willowbrook Park: BBQ Area 1",,,"02, 2,","122,",2023-09-16,12:00:00,2023-09-16,20:00:00
+685544.0,young adult teaching artist residencies- sundays,Parks Department,Special Event,Manhattan,Washington Square Park: Northeast Seating Alcove,,,"2,","6,",2023-08-27,13:00:00,2023-08-27,15:00:00
+796575.0,aba sportfest,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Around the Unisphere,,,"81,","110,",2024-08-17,08:00:00,2024-08-17,17:00:00
+683557.0,b merry toy giveaway.,Street Activity Permit Office,Plaza Event,Brooklyn,Osborn Street Plaza: Osborn Street Plaza OSBORN STREET between BELMONT AVENUE and SUTTER AVENUE,Full,Pedestrian Plaza,"16,","73,",2022-12-09,16:00:00,2022-12-09,19:00:00
+776855.0,3rd annual rockaway dog parade,Parks Department,Special Event,Queens,"Rockaway Beach Boardwalk: Beach 108th Street   ,Rockaway Beach and Boardwalk: Beach 94th Street",,,"14,","100,",2024-09-14,11:00:00,2024-09-14,13:00:00
+691573.0,opera essentia,Parks Department,Special Event,Bronx,Crotona Park: Amphitheater,,,"3,","42,",2023-09-22,18:00:00,2023-09-22,19:30:00
+582540.0,the comedy of errors,Parks Department,Special Event,Manhattan,Central Park: Summit Rock,,,"64,","22,",2021-10-02,14:00:00,2021-10-02,16:00:00
+791762.0,bike safety class - mccarren - july,Parks Department,Special Event,Brooklyn,McCarren Park: Bayard/Union Lawns,,,"1,","94,",2024-07-31,09:00:00,2024-07-31,17:00:00
+646894.0,miscellaneous,Parks Department,Special Event,Brooklyn,"P.O. Reinaldo Salgado Playground (PS 309): Football-01 ,P.O. Reinaldo Salgado Playground (PS 309): Madison St. Sitting Area",,,"03, 3,","81,",2022-06-21,09:00:00,2022-06-21,14:00:00
+594567.0,bar convent brooklyn,Street Activity Permit Office,Production Event,Brooklyn, NOBLE STREET between FRANKLIN STREET and WEST STREET,Both,Curb Lane Only,"1, ","94, ",2021-08-17,06:00:00,2021-08-18,23:00:00
+615858.0,fido coffee bark and bark the herald angels sing raindate,Parks Department,Special Event,Brooklyn,Prospect Park: Picnic House South,,,"55,","78,",2022-12-10,08:00:00,2022-12-10,10:00:00
+642554.0,miscellaneous,Parks Department,Special Event,Bronx,Burns Playground: Burns Playground,,,"11,","49,",2022-08-10,09:00:00,2022-08-10,17:00:00
+574212.0,freedom coalition for education equity,Parks Department,Special Event,Brooklyn,Columbus Park: Borough Hall Steps Area ,,,"2, ","84, ",2021-05-22,12:00:00,2021-05-22,14:00:00
+743925.0,sss cpe78 sum24 july,Parks Department,Special Event,Manhattan,Central Park: Lawn North of Levin Playground,,,"64,","22,",2024-07-30,09:00:00,2024-07-30,13:00:00
+536564.0,miscellaneous,Parks Department,Special Event,Brooklyn,Washington Park (MS 51): Soccer-01B ,,,"06, ","78, ",2021-07-28,11:00:00,2021-07-28,14:00:00
+569881.0,miscellaneous,Parks Department,Special Event,Brooklyn,Butterfly Garden: Butterfly Gardens ,,,"7, ","72, ",2021-08-27,11:00:00,2021-08-27,14:00:00
+712503.0,greenwich village orchestra summer concert,Parks Department,Special Event,Brooklyn,Prospect Park: CONCERT GROVE PAVILION,,,"55,","78,",2023-07-16,13:30:00,2023-07-16,18:30:00
+686837.0,miscellaneous,Parks Department,Special Event,Brooklyn,Gravesend Park: Lawn Area,,,"12,","66,",2023-08-25,10:00:00,2023-08-25,15:00:00
+630390.0,new york city cannabis parade and rally,Police Department,Parade,Manhattan,"BROADWAY between WEST   32 STREET and WEST   31 STREET,  BROADWAY between WEST   31 STREET and EAST   17 STREET,  EAST   17 STREET between BROADWAY and UNION SQUARE EAST,  UNION SQUARE EAST between EAST   17 STREET and EAST   15 STREET,  UNION SQUARE EAST between EAST   15 STREET and EAST   14 STREET",Full,Full Street Closure,"2, 5,","13, 14, 9,",2022-05-07,12:30:00,2022-05-07,13:00:00
+712240.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Sunset Park: Center Lawn ,Sunset Park: Softball-01",,,"07, 7,","72,",2023-08-14,09:00:00,2023-08-14,17:00:00
+714956.0,harlem meer moving and grooving workouts,Parks Department,Special Event,Manhattan,"Central Park: Dana Discovery Center Lawn ,Central Park: Dana Discovery Center Plaza",,,"64,","22,",2023-08-26,10:00:00,2023-08-26,12:00:00
+659044.0,shape up nyc: line dancing,Parks Department,Special Event,Brooklyn,"Betsy Head Park: Handball-01 ,Betsy Head Park: Handball-02",,,"16,","73,",2022-08-26,09:00:00,2022-08-26,11:00:00
+764076.0,saturday morning zumba at fort tryon,Parks Department,Special Event,Manhattan,Fort Tryon Park: Anne Loftus Playground,,,"12,","34,",2024-08-31,09:00:00,2024-08-31,11:00:00
+637994.0,miscellaneous,Parks Department,Special Event,Manhattan,Randall's Island Park: Wards Meadow Fields-Soccer-71,,,"11,","25,",2022-06-01,08:00:00,2022-06-01,13:00:00
+633955.0,miscellaneous,Parks Department,Special Event,Brooklyn,"McCarren Park: PO Gilroy Field-Baseball-03 ,McCarren Park: Softball-02 ,McCarren Park: Softball-01",,,"01,","94,",2022-06-08,09:00:00,2022-06-08,14:00:00
+619761.0,evangelistic outreach,Parks Department,Special Event,Brooklyn,Maria Hernandez Park: Central Plaza/Performance Area,,,"4,","83,",2022-06-18,13:00:00,2022-06-18,17:00:00
+577301.0,summer sundays,Parks Department,Special Event,Queens,Travers Park: Performance Area ,,,"3, ","115, ",2021-08-29,18:00:00,2021-08-29,19:00:00
+686839.0,bace basketball summer classic,Parks Department,Special Event,Queens,"Roy Wilkins Park: Basketball-01 ,Roy Wilkins Park: Basketball-02",,,"12,","113,",2023-08-12,09:00:00,2023-08-12,18:00:00
+798884.0,summer streets,Parks Department,Special Event,Manhattan,A Philip Randolph Square: A Philip Randolph Square Sitting Area,,,"10,","28,",2024-08-17,07:00:00,2024-08-17,15:00:00
+738681.0,summer on the hudson all abilities dance,Parks Department,Special Event,Manhattan,West Harlem Piers: North Lawn 133rd Street,,,"9,","26,",2024-08-29,18:00:00,2024-08-29,19:00:00
+808085.0,participatory art installation one day in the life of the bronx river,Parks Department,Special Event,Bronx,Starlight Park: Starlight Park,,,"9,","43,",2024-10-18,08:00:00,2024-10-18,19:00:00
+694250.0,athens square cultural,Parks Department,Special Event,Queens,Athens Square: Stage Area,,,"1,","114,",2023-08-29,19:00:00,2023-08-29,21:00:00
+621693.0,2022 queensboro dance festival,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Around the Unisphere,,,"81,","110,",2022-07-22,18:00:00,2022-07-22,19:30:00
+764076.0,saturday morning zumba at fort tryon,Parks Department,Special Event,Manhattan,Fort Tryon Park: Anne Loftus Playground,,,"12,","34,",2024-08-31,09:00:00,2024-08-31,11:00:00
+598357.0,yemeni american heritage day,Police Department,Parade,Brooklyn,"COURT STREET between BALTIC STREET and REMSEN STREET,  COURT STREET between BALTIC STREET and REMSEN STREET, 209 JORALEMON STREET, BALTIC STREET between COURT STREET and HOYT STREET",Full,Full Street Closure,"2, 6,","76, 84,",2021-10-02,12:00:00,2021-10-02,14:00:00
+536567.0,miscellaneous,Parks Department,Special Event,Brooklyn,Washington Park (MS 51): Soccer-01B ,,,"06, ","78, ",2021-08-05,11:00:00,2021-08-05,14:00:00
+808872.0,memorial service,Parks Department,Special Event,Manhattan,The Queen Elizabeth II September 11th Garden: British Garden at Hanover Square,,,"1,","1,",2024-10-30,16:00:00,2024-10-30,17:00:00
+623929.0,restart project,Parks Department,Special Event,Manhattan,Fort Washington Park: Little Red Lighthouse Waterfront,,,"12,","33,",2022-06-25,09:00:00,2022-06-25,15:00:00
+743166.0,back to school,Parks Department,Special Event,Queens,Baisley Pond Park: BBQ Area Yellow-Baisley,,,"12,","113,",2024-08-17,12:00:00,2024-08-17,16:00:00
+793621.0,archery,Parks Department,Special Event,Brooklyn,Owl's Head Park: Lawn Area 67th St & Colonial Road,,,"10,","68,",2024-07-27,11:00:00,2024-07-27,12:00:00
+736962.0,dion lee ss24 fashion show,Street Activity Permit Office,Production Event,Manhattan,WEST   18 STREET between 10 AVENUE and 11 AVENUE,North,Curb Lane Only,"4,","10,",2023-09-09,22:00:00,2023-09-09,23:00:00
+694408.0,musical performance,Parks Department,Special Event,Brooklyn,Coney Island Beach & Boardwalk: West 21st St Performance Area,,,"13,","60,",2023-09-02,14:00:00,2023-09-02,18:00:00
+743986.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Damrosch Park ,Damrosch Park: Sidewalks",,,"7,","20,",2024-01-27,00:00:00,2024-01-27,23:59:00
+629467.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Paerdegat Park: Softball-01 ,Paerdegat Park: Baseball-02",,,"17,","67,",2022-06-01,10:00:00,2022-06-01,14:00:00
+813029.0,zendesk event at chelsea industrial: 535-551 w. 28th st.,Street Activity Permit Office,Production Event,Manhattan,WEST   28 STREET between 10 AVENUE and 11 AVENUE,North,Curb Lane Only,"4,","10,",2024-10-09,06:00:00,2024-10-09,23:59:00
+617173.0,miscellaneous,Parks Department,Special Event,Brooklyn,Gravesend Park: Lawn Area,,,"12,","66,",2022-08-16,10:00:00,2022-08-16,15:00:00
+758193.0,it's my park monday - peristyle,Parks Department,Special Event,Brooklyn,Prospect Park: Grecian Shelter/Peristyle Lawn West,,,"55,","78,",2024-09-03,10:00:00,2024-09-03,12:00:00
+732071.0,triumph of the human spirit day 2023,Parks Department,Special Event,Manhattan,Thomas Paine Park (Foley Square): Thomas Paine Park (Foley Square),,,"1,","5,",2023-10-22,11:00:00,2023-10-22,14:00:00
+545876.0,miscellaneous,Parks Department,Special Event,Manhattan,Matthew P. Sapolin Playground: MPPA ,,,"7, ","20, ",2021-06-07,08:00:00,2021-06-07,12:00:00
+712737.0,community resource fair,Parks Department,Special Event,Manhattan,Thomas Paine Park (Foley Square): Thomas Paine Park (Foley Square),,,"1,","5,",2023-09-20,10:00:00,2023-09-20,15:00:00
+748671.0,shore road tree lighting,Parks Department,Special Event,Brooklyn,Shore Road Park: 95th St Lawn Area,,,"10,","68,",2023-11-25,17:00:00,2024-01-06,18:00:00
+628666.0,miscellaneous,Parks Department,Special Event,Queens,Athens Square: Stage Area,,,"1,","114,",2022-06-23,08:00:00,2022-06-23,12:00:00
+589129.0,it's my park holiday clean up,Parks Department,Special Event,Brooklyn,Prospect Park: Boathouse ,,,"55, ","78, ",2021-09-07,10:00:00,2021-09-07,13:00:00
+804289.0,2024.09.29 bayswater park coastal cleanup,Parks Department,Special Event,Queens,Bayswater Park: Bayswater Park,,,"14,","101,",2024-09-29,10:00:00,2024-09-29,12:30:00
+772748.0,nyrr open run st. mary's park,Parks Department,Special Event,Bronx,St. Mary's Park: St Mary's Playground East,,,"1,","40,",2024-07-27,08:00:00,2024-07-27,11:00:00
+551437.0,sss cpe97 spring 21 june,Parks Department,Special Event,Manhattan,Central Park: West 96th Street Landscape ,,,"64, ","22, ",2021-06-25,13:30:00,2021-06-25,17:30:00
+810915.0,ps205 trunk or treat,Parks Department,Special Event,Queens,Telephone Playground: Telephone Playground,,,"11,","111,",2024-10-27,11:00:00,2024-10-27,14:00:00
+618594.0,spring recycling event,Parks Department,Special Event,Queens,Forest Park: Bandshell Parking Lot,,,"82,","102,",2022-04-03,10:00:00,2022-04-03,14:00:00
+703319.0,laurelton memorial day parade,Police Department,Parade,Queens,"MERRICK BOULEVARD between FRANCIS LEWIS BOULEVARD and 225 STREET,  225 STREET between MERRICK BOULEVARD and NORTH CONDUIT AVENUE,  225TH  STREET BETWEEN NO CONDUIT AVENUE AND SOUTH CONDUIT AVENUE between 225TH STREET and NO CONDUIT AVENUE",West,Full Street Closure,"13,","105,",2023-05-29,09:30:00,2023-05-29,13:00:00
+601660.0,zumba class,Parks Department,Special Event,Queens,Hunter's Point South Park: Hunter's Point South Park,,,"2,","108,",2021-10-07,18:00:00,2021-10-07,19:00:00
+757074.0,the armory hcz canada cups,Parks Department,Special Event,Manhattan,"Randall's Island Park: Hell Gate Fields-Softball-63   ,Randall's Island Park: Hell Gate Fields-Soccer-62 ,Randall's Island Park: Hell Gate Fields-Soccer-61 ,Randall's Island Park: Hell Gate Fields-Soccer-60",,,"11,","25,",2024-08-12,08:00:00,2024-08-12,16:00:00
+762283.0,dj - beach part 4,Parks Department,Special Event,Queens,Rockaway Beach and Boardwalk: Beach 94th Street,,,"14,","100,",2024-06-01,13:00:00,2024-06-01,20:00:00
+807345.0,miscellaneous,Parks Department,Special Event,Bronx,"Julio Carballo Fields: Picnic Area 1   ,Julio Carballo Fields: Softball-02",,,"02, 2,","41,",2024-12-18,10:00:00,2024-12-18,13:00:00
+673846.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Bandshell ,Damrosch Park: Tent Area",,,"7,","20,",2023-01-11,00:00:00,2023-01-11,23:59:00
+695017.0,community enhancement day,Parks Department,Special Event,Bronx,Crotona Park: Crotona Park,,,"3,","42,",2023-08-19,11:00:00,2023-08-19,18:00:00
+737430.0,zumba fitness class,Parks Department,Special Event,Queens,Travers Park: Performance Area,,,"3,","115,",2023-09-30,19:00:00,2023-09-30,20:00:00
+741274.0,seeds to trees is 51 field experience at clove lakes park,Parks Department,Special Event,Staten Island,Clove Lakes Park: Picnic BBQ Clove,,,"1,","120,",2023-10-20,10:00:00,2023-10-20,13:00:00
+725685.0,bike safety class - linden - july,Parks Department,Special Event,Brooklyn,Linden Park (Gershwin Park - JHS 166): Multi Purpose Play Area-01,,,"05,","75,",2023-07-28,09:00:00,2023-07-28,17:00:00
+782477.0,miscellaneous,Parks Department,Special Event,Brooklyn,D'Eemic Playground: Sitting Area,,,"7,","72,",2024-08-16,08:00:00,2024-08-16,18:00:00
+596917.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Damrosch Park ,Damrosch Park: Bandshell ,Damrosch Park: Tent Area ,Damrosch Park: Sidewalks",,,"7,","20,",2022-03-13,00:00:00,2022-03-13,23:59:00
+601630.0,outdoor gym for hyde leadership,Parks Department,Special Event,Bronx,Riverdale Park: Riverdale Park,,,"8,","50,",2021-12-23,08:00:00,2021-12-23,14:00:00
+634124.0,outdoor service,Parks Department,Special Event,Queens,Alley Pond Park: Upper Alley BBQ Area Orange,,,"11,","111,",2022-05-22,10:00:00,2022-05-22,13:00:00
+738681.0,summer on the hudson all abilities dance,Parks Department,Special Event,Manhattan,West Harlem Piers: North Lawn 133rd Street,,,"9,","26,",2024-08-29,18:00:00,2024-08-29,19:00:00
+696370.0,cm robert holden disney concert jne 22,Parks Department,Special Event,Queens,Juniper Valley Park: Juniper Playground-Softball-08,,,"05,","104,",2023-06-22,19:00:00,2023-06-22,21:00:00
+634387.0,miscellaneous,Parks Department,Special Event,Bronx,Pelham Bay Park and Orchard Beach: Orchard Beach North Picnic Area A,,,"28,","45,",2022-06-08,09:00:00,2022-06-08,13:00:00
+741416.0,oneida and friends,Parks Department,Special Event,Queens,Forest Park: Bandshell and Seating,,,"82,","102,",2024-09-14,14:00:00,2024-09-14,20:00:00
+810398.0,2024.10.19 kaiser park coastal cleanup,Parks Department,Special Event,Brooklyn,Kaiser Park: Kaiser Park,,,"13,","60,",2024-10-19,10:00:00,2024-10-19,12:00:00
+737430.0,zumba fitness class,Parks Department,Special Event,Queens,Travers Park: Performance Area,,,"3,","115,",2023-09-30,19:00:00,2023-09-30,20:00:00
+748210.0,chanukah on the park 2023,Parks Department,Special Event,Queens,Yellowstone Park: Yellowstone Park,,,"6,","112,",2023-12-10,15:30:00,2023-12-15,18:00:00
+635201.0,miscellaneous,Parks Department,Special Event,Queens,John Golden Park: John Golden Park,,,"11,","111,",2022-05-11,09:00:00,2022-05-11,14:00:00
+696850.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Bill Brown Playground: Soccer-01 ,Bill Brown Playground: Softball-01",,,"15,","61,",2023-08-15,12:00:00,2023-08-15,15:00:00
+610609.0,summerstage - metropolitan opera,Parks Department,Special Event,Staten Island,"Clove Lakes Park: Clove Lakes Park (Whole Park)   ,Clove Lakes Park: Baseball-01 ,Clove Lakes Park: Baseball-02 ,Clove Lakes Park: Knoll 01 (Comm) - Clove Picnic Victory Blvd Side ,Clove Lakes Park: Knoll 02 (Chf) - Picnic Playground Side",,,"01, 1,","120,",2022-06-30,18:00:00,2022-06-30,21:00:00
+570422.0,steppers performance and dance demo,Parks Department,Special Event,Manhattan,Central Park: Summit Rock ,,,"64, ","22, ",2021-07-31,13:30:00,2021-07-31,18:00:00
+762078.0,the history of illusion a trip to the moon,Parks Department,Special Event,Manhattan,Washington Square Park: Garibaldi Plaza,,,"2,","6,",2024-07-27,20:00:00,2024-07-27,22:00:00
+801468.0,cuny cross country track permit,Parks Department,Special Event,Bronx,"Van Cortlandt Park: Cross Country Parade Ground Broadway 1   ,Van Cortlandt Park: Cross Country Parade Ground East Side 1",,,"26,","50,",2024-11-03,07:00:00,2024-11-03,14:00:00
+586643.0,salsa tuesdays,Parks Department,Special Event,Manhattan,Washington Square Park: Garibaldi Plaza ,,,"2, ","6, ",2021-09-14,18:00:00,2021-09-14,20:00:00
+736512.0,miscellaneous,Parks Department,Special Event,Manhattan,Central Park: Heckscher Playground Lawns,,,"64,","22,",2023-10-12,12:00:00,2023-10-12,16:00:00
+684361.0,nativity scene,Parks Department,Special Event,Bronx,Bell Tower Park: Bell Tower Park,,,"8,","50,",2023-01-09,09:00:00,2023-01-09,19:00:00
+639430.0,tubi newfront,Street Activity Permit Office,Production Event,Manhattan,"WEST   49 STREET between 11 AVENUE and 12 AVENUE,  WEST   48 STREET between 11 AVENUE and 12 AVENUE,  12 AVENUE between WEST   48 STREET and WEST   49 STREET",South,Curb Lane Only,"4,","18,",2022-05-02,16:00:00,2022-05-02,18:00:00
+600217.0,creative time (music pagoda),Parks Department,Special Event,Brooklyn,Prospect Park: Music Grove - Music Pagoda,,,"55,","78,",2021-10-09,07:00:00,2021-10-09,19:00:00
+625784.0,wwm in the park,Parks Department,Special Event,Queens,Fort Totten Park: Fort Totten Park,,,"7,","109,",2022-06-11,14:00:00,2022-06-11,17:00:00
+738459.0,sunday mood house music - amplified sound,Parks Department,Special Event,Brooklyn,Coney Island Beach & Boardwalk: West 21st St Performance Area,,,"13,","60,",2024-08-11,14:00:00,2024-08-11,18:00:00
+684316.0,kissena cycling club series 2023,Parks Department,Special Event,Brooklyn,"Prospect Park: 3rd Street Entrance ,Prospect Park: Park Drive - WHOLE DRIVE",,,"55,","78,",2023-09-30,06:00:00,2023-09-30,08:00:00
+712243.0,miscellaneous,Parks Department,Special Event,Brooklyn,"D'Eemic Playground: Sitting Area ,D'Eemic Playground: Basketball-01",,,"07, 7,","72,",2023-08-15,09:00:00,2023-08-15,17:00:00
+798204.0,miscellaneous,Parks Department,Special Event,Brooklyn,Seth Low Playground: Multi Purpose Play Area 02,,,"11,","62,",2024-12-23,09:00:00,2024-12-23,14:00:00
+610154.0,miscellaneous,Parks Department,Special Event,Bronx,"Pelham Bay Park and Orchard Beach: South Picnic Area 01 ,Pelham Bay Park and Orchard Beach: South Picnic Area 02",,,"28,","45,",2022-05-24,09:00:00,2022-05-24,13:00:00
+743843.0,miscellaneous,Parks Department,Special Event,Queens,"Juniper Valley Park: Softball-02   ,Juniper Valley Park: Softball-03",,,"05,","104,",2024-05-28,08:00:00,2024-05-28,13:00:00
+717512.0,miscellaneous,Parks Department,Special Event,Brooklyn,Marine Park: Softball-10,,,"18,","63,",2023-08-08,09:00:00,2023-08-08,17:00:00
+545812.0,miscellaneous,Parks Department,Special Event,Manhattan,William McCray Playground: Basketball-01 ,,,"10, ","32, ",2021-06-23,08:00:00,2021-06-23,12:00:00
+717872.0,chb chanukah,Parks Department,Special Event,Manhattan,Washington Square Park: Garibaldi Plaza,,,"2,","6,",2023-12-17,08:00:00,2023-12-17,20:00:00
+572024.0,solve nyc and homework hub,Parks Department,Special Event,Manhattan,"Morningside Park: West 122nd Street BBQ Area 06 ,Morningside Park: West 122nd Street BBQ Area 07 ",,,"9, ","26, ",2021-07-21,14:00:00,2021-07-21,17:00:00
+593280.0,willowbrook park in staten island,Parks Department,Special Event,Staten Island,Willowbrook Park: BBQ Area 5 ,,,"2, ","122, ",2021-08-21,10:00:00,2021-08-21,18:00:00
+567721.0,friends seminary - nature's classroom,Parks Department,Special Event,Brooklyn,Prospect Park: Tennis House South ,,,"55, ","78, ",2021-04-30,09:00:00,2021-04-30,14:00:00
+815134.0,hanukkah menorah and lighting,Parks Department,Special Event,Manhattan,Clement Clarke Moore Park: Clement Clarke Moore Park,,,"4,","10,",2024-12-30,16:00:00,2024-12-30,17:00:00
+546218.0,miscellaneous,Parks Department,Special Event,Manhattan,Chelsea Park: Softball-01 ,,,"04, ","10, ",2021-06-21,08:00:00,2021-06-21,11:30:00
+623202.0,miscellaneous,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape A,,,"64,","22,",2022-08-19,13:00:00,2022-08-19,16:00:00
+803029.0,community zumba classes september 2024,Parks Department,Special Event,Queens,"Travers Park: Travers Park   ,Travers Park: Travers Park",,,"3,","115,",2024-09-30,08:00:00,2024-09-30,10:00:00
+737505.0,siche field day,Parks Department,Special Event,Staten Island,Wolfe's Pond Park: Lawn,,,"3,","123,",2023-10-14,09:00:00,2023-10-14,14:00:00
+780025.0,murder mystery in the park,Parks Department,Special Event,Queens,Cunningham Park: Picnic Red,,,"8,","107,",2024-07-13,12:00:00,2024-07-13,18:00:00
+741659.0,7th grade field day,Parks Department,Special Event,Brooklyn,Prospect Park: Bandshell South,,,"55,","78,",2024-06-13,09:00:00,2024-06-13,14:00:00
+739301.0,central park spring classic race,Parks Department,Special Event,Manhattan,Central Park: West Drive,,,"64,","22,",2024-02-10,06:45:00,2024-02-10,08:00:00
+563341.0,salsa sundays,Parks Department,Special Event,Bronx,Pelham Bay Park and Orchard Beach: Orchard Beach - Cement/Rink Area ,,,"28, ","45, ",2021-09-12,12:00:00,2021-09-12,17:30:00
+611196.0,harlem river weekend cycling race,Parks Department,Special Event,Manhattan,"Randall's Island Park: Harlem River Event Area ,Randall's Island Park: Asphalt Pad",,,"11,","25,",2022-04-03,07:00:00,2022-04-03,09:30:00
+807345.0,miscellaneous,Parks Department,Special Event,Bronx,"Julio Carballo Fields: Picnic Area 1   ,Julio Carballo Fields: Softball-02",,,"02, 2,","41,",2024-12-18,10:00:00,2024-12-18,13:00:00
+609451.0,summer solstice ultra,Parks Department,Special Event,Queens,Forest Park: Forest Park Drive (Race),,,"82,","102,",2022-06-12,07:00:00,2022-06-12,15:00:00
+640576.0,miscellaneous,Parks Department,Special Event,Queens,Oakland Gardens: Lawn,,,"11,","111,",2022-06-16,11:00:00,2022-06-16,15:00:00
+779521.0,movie under the stars,Parks Department,Special Event,Bronx,Bronx Park: Bronx Park,,,"11, 12, 6, 7,","48,",2024-08-03,21:00:00,2024-08-03,23:00:00
+670005.0,shape up nyc: gentle yoga,Parks Department,Special Event,Queens,Alley Pond Park: Parking Lot 01 - Springfield,,,"11,","111,",2022-11-14,10:00:00,2022-11-14,11:00:00
+784013.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Colonel David Marcus Playground: Sitting Area   ,Colonel David Marcus Playground: Softball-01",,,"12,","66,",2024-08-19,13:00:00,2024-08-19,16:00:00
+633182.0,miscellaneous,Parks Department,Special Event,Brooklyn,McCarren Park: Plaza North of Field House,,,"1,","94,",2022-04-19,13:00:00,2022-04-19,15:00:00
+774264.0,boxing,Parks Department,Special Event,Manhattan,Bryant Park: Fountain Terrace,,,"5,","14,",2024-09-26,18:00:00,2024-09-26,19:00:00
+766115.0,the korean parade,Police Department,Parade,Manhattan,"WEST   38 STREET between BROADWAY and 5 AVENUE,  6 AVENUE between WEST   38 STREET and WEST   27 STREET,  WEST   27 STREET between 6 AVENUE and BROADWAY,  6 AVENUE between WEST   32 STREET and WEST   31 STREET",Both,Full Street Closure,"5,","13, 14,",2024-10-05,12:00:00,2024-10-05,15:00:00
+793126.0,bronx summer series,Parks Department,Special Event,Bronx,Owen F. Dolen Park: Passive Area,,,"10,","45,",2024-08-02,09:00:00,2024-08-02,12:00:00
+806150.0,tribeca rooftop - september,Street Activity Permit Office,Production Event,Manhattan,DESBROSSES STREET between HUDSON STREET and GREENWICH STREET,North,Curb Lane Only,"1,","1,",2024-09-14,00:01:00,2024-09-28,23:59:00
+589129.0,it's my park holiday clean up,Parks Department,Special Event,Brooklyn,Prospect Park: Boathouse,,,"55,","78,",2021-09-07,10:00:00,2021-09-07,13:00:00
+679820.0,rockaway baech santa suit 5k,Parks Department,Special Event,Queens,Rockaway Beach and Boardwalk: Beach 94th Street,,,"14,","100,",2023-12-16,10:00:00,2023-12-16,12:00:00
+743878.0,manhattan turkey trot,Parks Department,Special Event,Manhattan,"Randall's Island Park: Flagpole Plaza and Lawns ,Randall's Island Park: Asphalt Pad ,Randall's Island Park: Harlem River Event Area ,Randall's Island Park: Park Paths and Roadways",,,"11,","25,",2024-11-17,09:00:00,2024-11-17,10:00:00
+806267.0,community outreach resource event,Parks Department,Special Event,Staten Island,Franklin D Roosevelt Boardwalk and Beach: BBQ Area 5 Midland,,,"95,","122,",2024-10-03,10:00:00,2024-10-03,14:00:00
+570474.0,ibe-fit 5k challenge,Parks Department,Special Event,Bronx,Van Cortlandt Park: Cross Country Parade Ground Broadway 1 ,,,"26, ","50, ",2021-06-05,11:00:00,2021-06-05,13:00:00
+671577.0,out door learning,Parks Department,Special Event,Brooklyn,Seth Low Playground: Multi Purpose Play Area 02,,,"11,","62,",2022-12-23,10:00:00,2022-12-23,13:00:00
+681264.0,august-ues- north reservoir landscape b,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape B,,,"64,","22,",2023-08-17,10:00:00,2023-08-17,14:00:00
+576052.0,council member holden spayneuter clinic,Parks Department,Special Event,Queens,Rosemary's Playground: Rosemary's Playground   ,,,"5, ","104, ",2021-05-29,07:00:00,2021-05-29,12:00:00
+566575.0,children's educational music program,Parks Department,Special Event,Manhattan,Bennett Park: Sitting Area ,,,"12, ","34, ",2021-06-05,15:00:00,2021-06-05,17:00:00
+570976.0,in-person church service,Parks Department,Special Event,Manhattan,Jackie Robinson Park: Bandshell ,,,"10, ","30, ",2021-05-16,11:00:00,2021-05-16,12:30:00
+743868.0,lag baomer,Parks Department,Special Event,Queens,Alley Pond Park: Alley Springfield BBQ Area Pink,,,"11,","111,",2024-05-30,10:00:00,2024-05-30,13:00:00
+595508.0,nyc parks softball tournament,Parks Department,Special Event,Queens,"Flushing Meadows Corona Park: North-Softball-10 ,Flushing Meadows Corona Park: North-Softball-11 ,Flushing Meadows Corona Park: North-Softball-12",,,"81,","110,",2021-10-14,09:00:00,2021-10-14,15:00:00
+764316.0,juneteenth at st nick - june 22,Parks Department,Special Event,Manhattan,"St. Nicholas Park: West 135th Street James Baldwin Lawn   ,St. Nicholas Park: West 135th Street Plaza",,,"9,","26,",2024-06-29,12:00:00,2024-06-29,16:00:00
+728732.0,mini health fair - keeeep moving,Parks Department,Special Event,Brooklyn,Breukelen Ballfields (PS 260 - Playground only): Breukelen Plgd-Multi Purpose Play Area-01,,,"18,","69,",2023-09-09,12:00:00,2023-09-09,16:00:00
+753582.0,community zumba classes february 2024,Parks Department,Special Event,Queens,"Travers Park: Travers Park ,Travers Park: Travers Park",,,"3,","115,",2024-02-28,08:00:00,2024-02-28,10:00:00
+717628.0,religous service,Parks Department,Special Event,Brooklyn,Betsy Head Park: Performance Area,,,"16,","73,",2023-09-09,13:00:00,2023-09-09,16:00:00
+751617.0,miscellaneous,Parks Department,Special Event,Queens,"Forest Park: Soccer-01   ,Forest Park: Track-01 ,Forest Park: Softball-04 ,Forest Park: Softball-05",,,"82,","102,",2024-06-10,08:00:00,2024-06-10,14:00:00
+736011.0,light the night manhattan 2023,Police Department,Parade,Manhattan,"89 SOUTH STREET, SOUTH STREET between BEEKMAN STREET and JOHN STREET,  JOHN STREET between SOUTH STREET and PEARL STREET,  PEARL STREET between JOHN STREET and DOVER STREET,  DOVER STREET between PEARL STREET and WATER STREET,  WATER STREET between DOVER STREET and PECK SLIP,  PECK SLIP between WATER STREET and SOUTH STREET,  SOUTH STREET between PECK SLIP and FULTON STREET,  FULTON STREET between SOUTH STREET and DEAD END",,Full Street Closure,"1,","1, 5,",2023-10-26,17:30:00,2023-10-26,21:30:00
+561205.0,holy spirit transformational fire ministry,Parks Department,Special Event,Bronx,Crotona Park: Amphitheater ,,,"3, ","42, ",2021-04-21,17:00:00,2021-04-21,18:30:00
+725691.0,bike safety class -  crotona - youth- july,Parks Department,Special Event,Bronx,Crotona Park: Crotona Park,,,"3,","42,",2023-07-31,10:00:00,2023-07-31,17:00:00
+551180.0,sss cpw94 fall 21 sept,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape A,,,"64,","22,",2021-09-30,13:30:00,2021-09-30,17:30:00
+773092.0,bronx witness for life,Police Department,Parade,Bronx,"448 COLLEGE AVENUE, COLLEGE AVENUE between EAST  146 STREET and EAST  148 STREET,  EAST  148 STREET between COLLEGE AVENUE and COURTLANDT AVENUE,  COURTLANDT AVENUE between EAST  148 STREET and EAST  149 STREET,  EAST  149 STREET between COURTLANDT AVENUE and MORRIS AVENUE,  MORRIS AVENUE between EAST  149 STREET and EAST  148 STREET,  EAST  148 STREET between MORRIS AVENUE and COLLEGE AVENUE,  COLLEGE AVENUE between EAST  148 STREET and EAST  146 STREET, 448 COLLEGE AVENUE,349 EAST  149 STREET,234 EAST  149 STREET",,Full Street Closure,"1,","40,",2024-04-20,08:30:00,2024-04-20,10:30:00
+692725.0,miscellaneous,Parks Department,Special Event,Manhattan,"Randall's Island Park: Bronx Shore Picnic Area Green   ,Randall's Island Park: Bronx Shore Fields-Soccer-06",,,"11,","25,",2023-05-22,09:00:00,2023-05-22,13:00:00
+743166.0,back to school,Parks Department,Special Event,Queens,Baisley Pond Park: BBQ Area Yellow-Baisley,,,"12,","113,",2024-08-17,12:00:00,2024-08-17,16:00:00
+694551.0,csw 2023 summer concert - central park,Parks Department,Special Event,Manhattan,Central Park: Bandshell Plaza,,,"64,","22,",2023-07-29,13:00:00,2023-07-29,15:00:00
+604123.0,art and craft showcase,Parks Department,Special Event,Brooklyn,Marine Park: Lawn (Fillmore Avenue),,,"18,","63,",2021-10-23,11:00:00,2021-10-23,14:00:00
+805260.0,cross country start,Parks Department,Special Event,Brooklyn,Prospect Park: Grecian Shelter/Peristyle Lawn West,,,"55,","78,",2024-10-02,13:30:00,2024-10-02,16:00:00
+586137.0,charity fundraiser,Parks Department,Special Event,Manhattan,Randall's Island Park: Sunken Meadow Fields-Softball-14,,,"11,","25,",2021-09-18,13:00:00,2021-09-18,17:00:00
+716130.0,the afro-latineers,Parks Department,Special Event,Manhattan,Stuyvesant Square: Flagpole Plaza West,,,"6,","13,",2023-07-09,18:00:00,2023-07-09,20:00:00
+681254.0,july-ues- north reservoir landscape b,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape B,,,"64,","22,",2023-07-31,10:00:00,2023-07-31,14:00:00
+631822.0,msi field day,Parks Department,Special Event,Staten Island,"Franklin D Roosevelt Boardwalk and Beach: BBQ Area 9 Midland ,Franklin D Roosevelt Boardwalk and Beach: Midland Beach-Basketball-01 ,Franklin D Roosevelt Boardwalk and Beach: Midland Beach-Basketball-02 ,Franklin D Roosevelt Boardwalk and Beach: Midland Beach-Softball-08",,,"95,","122,",2022-05-13,10:00:00,2022-05-13,13:00:00
+756447.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Breukelen Ballfields (PS 260 - Playground only): Baseball-01   ,Breukelen Ballfields (PS 260 - Playground only): Baseball-02 ,Breukelen Ballfields (PS 260 - Playground only): Softball- 03 Coach Jose Rosado Field ,Breukelen Ballfields (PS 260 - Playground only): Softball-04 ,Breukelen Ballfields (PS 260 - Playground only): Softball-05",,,"18,","69,",2024-05-30,09:00:00,2024-05-30,13:00:00
+735718.0,girl code field day,Parks Department,Special Event,Brooklyn,Prospect Park: Bandshell North,,,"55,","78,",2023-09-23,14:00:00,2023-09-23,18:00:00
+722696.0,rain date for 12/3-volunteer landscaping and cleanup at ridgewood reservoir,Parks Department,Special Event,Queens,Highland Park: Reservoir Path,,,"5,","104,",2023-12-17,10:00:00,2023-12-17,12:00:00
+545767.0,miscellaneous,Parks Department,Special Event,Manhattan,Thomas Jefferson Park: Softball-01 ,,,"11, ","23, ",2021-06-23,08:00:00,2021-06-23,12:00:00
+545882.0,miscellaneous,Parks Department,Special Event,Manhattan,Abe Lebewohl Triangle: Sitting Area ,,,"3, ","9, ",2021-06-23,09:00:00,2021-06-23,13:00:00
+739120.0,rockaway beach thanksgiving half marathon and 5k,Parks Department,Special Event,Queens,Rockaway Beach and Boardwalk: Beach 94th Street,,,"14,","100,",2024-11-16,09:00:00,2024-11-16,12:00:00
+782473.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Gonzalo Plasencia Playground (JHS 136): Gonzalo Plasencia Playground   ,Gonzalo Plasencia Playground (JHS 136): Softball-01",,,"07, 7,","72,",2024-08-16,08:00:00,2024-08-16,18:00:00
+596993.0,hopalong andrew music time,Parks Department,Special Event,Brooklyn,Fort Greene Park: Lawn Between Hospital and Tennis Courts,,,"2,","88,",2021-09-18,11:00:00,2021-09-18,12:00:00
+611160.0,aa cpe102 fall22 sept,Parks Department,Special Event,Manhattan,Central Park: East 102nd St Clay Oval,,,"64,","22,",2022-09-28,13:30:00,2022-09-28,17:30:00
+609366.0,summer on the hudson make music new york,Parks Department,Special Event,Manhattan,Riverside Park South: 70th Street Pier Plaza,,,"7,","20,",2022-06-21,15:00:00,2022-06-21,19:00:00
+690571.0,nyrr youth track and field series,Parks Department,Special Event,Bronx,"Macombs Dam Park: Track-01 ,Macombs Dam Park: Soccer-01",,,"04,","44,",2023-05-17,10:00:00,2023-05-17,13:00:00
+614817.0,miscellaneous,Parks Department,Special Event,Brooklyn,Marine Park: Softball-06,,,"18,","63,",2022-08-11,09:00:00,2022-08-11,16:00:00
+725425.0,miscellaneous,Parks Department,Special Event,Manhattan,Union Square Park: Center Lawn,,,"5,","13,",2023-08-04,15:00:00,2023-08-04,19:00:00
+625140.0,detective keith l willams day,Parks Department,Special Event,Queens,Detective Keith L Williams Park: Detective Keith L Williams Park,,,"12,","103,",2022-06-25,11:00:00,2022-06-25,18:00:00
+686794.0,ps 191 field day,Parks Department,Special Event,Manhattan,"De Witt Clinton Park: De Witt Clinton Park ,De Witt Clinton Park: Baseball-03 ,De Witt Clinton Park: Softball-01 ,De Witt Clinton Park: Softball-02",,,"04, 4,","18,",2023-06-23,09:00:00,2023-06-23,14:00:00
+739389.0,taste of asia in nyc: celebrating our city's aapi communities,Parks Department,Special Event,Manhattan,Madison Square Park: Oval Lawn,,,"5,","13,",2024-10-12,00:00:00,2024-10-12,23:59:00
+752347.0,bullseye session- amplified  sound,Parks Department,Special Event,Brooklyn,Classon Playground: Recreation Area-Playground,,,"1,","90,",2024-08-03,14:00:00,2024-08-03,18:00:00
+774160.0,live after dark,Parks Department,Special Event,Manhattan,Bryant Park: SW Porch,,,"5,","14,",2024-08-14,20:00:00,2024-08-14,21:30:00
+609818.0,sss cpe97 fall 22 sept,Parks Department,Special Event,Manhattan,Central Park: West 96th Street Landscape,,,"64,","22,",2022-09-30,13:30:00,2022-09-30,17:30:00
+694016.0,miscellaneous,Parks Department,Special Event,Queens,"Cunningham Park: Picnic Red ,Cunningham Park: Picnic Pink 1 ,Cunningham Park: Picnic Pink 2 ,Cunningham Park: Baseball-01",,,"08, 8,","107,",2023-08-15,10:00:00,2023-08-15,16:00:00
+766589.0,red hook business alliance summer movie nights,Parks Department,Special Event,Brooklyn,Valentino Pier: Lawn,,,"6,","76,",2024-08-14,20:00:00,2024-08-14,22:00:00
+704621.0,el barrio music festival,Parks Department,Special Event,Manhattan,"White Playground: Basketball-01 ,White Playground: Basketball-02",,,"11,","23,",2023-06-28,16:30:00,2023-06-28,20:00:00
+545879.0,miscellaneous,Parks Department,Special Event,Manhattan,"Central Park: North Meadow-Soccer-03 ,Central Park: Lawn Behind the Met Museum ",,,"64, ","22, ",2021-06-24,09:00:00,2021-06-24,11:00:00
+730744.0,katie martucci,Parks Department,Special Event,Manhattan,Stuyvesant Square: Flagpole Plaza West,,,"6,","13,",2023-08-19,16:00:00,2023-08-19,18:00:00
+565308.0,wednesday weeders - september,Parks Department,Special Event,Manhattan,Washington Square Park: Washington Square Park,,,"2,","6,",2021-09-29,09:00:00,2021-09-29,12:00:00
+644747.0,summer rising,Parks Department,Special Event,Manhattan,"Annunciation Park: Annunciation Park ,Annunciation Park: Softball-01",,,"09, 9,","26,",2022-08-18,13:30:00,2022-08-18,15:30:00
+679745.0,bric celebrate brooklyn - free shows,Parks Department,Special Event,Brooklyn,Prospect Park: Bandshell,,,"55,","78,",2023-08-22,11:00:00,2023-08-22,22:00:00
+796889.0,matsuri festival,Parks Department,Special Event,Manhattan,Corlears Hook Park: Cherry Street Mall,,,"3,","7,",2024-10-06,12:00:00,2024-10-06,16:00:00
+768412.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Canarsie Park: Lawn Area E 91st Street and Skidmore   ,Canarsie Park: Softball-03",,,"18,","69,",2024-08-30,08:00:00,2024-08-30,19:00:00
+794321.0,psal city championsips,Parks Department,Special Event,Bronx,Van Cortlandt Park: Cross Country Parade Ground Broadway 1,,,"26,","50,",2024-11-09,08:00:00,2024-11-09,14:00:00
+630468.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Marine Park: Softball-01 ,Marine Park: Softball-10",,,"18,","63,",2022-06-03,09:00:00,2022-06-03,14:00:00
+690729.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Canarsie Park: Lawn Area E 92nd Street and Skidmore ,Canarsie Park: Softball-03",,,"18,","69,",2023-08-31,09:00:00,2023-08-31,16:00:00
+767519.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Red Hook Recreation Area: Softball-08   ,Red Hook Recreation Area: Softball-05",,,"06, 6,","76,",2024-08-16,09:00:00,2024-08-16,16:00:00
+595973.0,word 4da streetz,Parks Department,Special Event,Brooklyn,Nostrand Playground (PS 269): Playground ,,,"17, ","67, ",2021-09-10,16:00:00,2021-09-10,19:00:00
+728967.0,bed-stuy gateway bid plaza partner hosting moshood annual fashion/art show,Street Activity Permit Office,Plaza Event,Brooklyn,Marcy Avenue Plaza: Marcy Avenue Plaza Marcy Avenue between Fulton Street and Macdonough Street,Full,Pedestrian Plaza,"3,","79,",2023-07-30,15:00:00,2023-07-30,19:00:00
+709222.0,6th annual may 5k,Parks Department,Special Event,Queens,"Beach 17 Playground (O'Donohue Park): Beach 17th Street Performance Space ,Rockaway Beach and Boardwalk: Beach 20th Street",,,"14,","101,",2023-10-29,13:00:00,2023-10-29,14:00:00
+765177.0,dyckman basketball tournament,Parks Department,Special Event,Manhattan,Monsignor Kett Playground: Monsignor Kett Playground,,,"12,","34,",2024-08-17,10:00:00,2024-08-17,22:30:00
+601630.0,outdoor gym for hyde leadership,Parks Department,Special Event,Bronx,Riverdale Park: Riverdale Park,,,"8,","50,",2021-12-23,08:00:00,2021-12-23,14:00:00
+741416.0,oneida and friends,Parks Department,Special Event,Queens,Forest Park: Bandshell and Seating,,,"82,","102,",2024-09-14,14:00:00,2024-09-14,20:00:00
+689343.0,chris annibell presents carmina soul,Parks Department,Special Event,Brooklyn,Maria Hernandez Park: Central Plaza/Performance Area,,,"4,","83,",2023-08-27,15:00:00,2023-08-27,19:00:00
+785255.0,a visit to the farmhouse:  a pop-up event,Parks Department,Special Event,Staten Island,Olmsted-Beil House Park: Olmsted-Beil House Park,,,"3,","123,",2024-07-20,11:00:00,2024-07-20,17:00:00
+586137.0,charity fundraiser,Parks Department,Special Event,Manhattan,Randall's Island Park: Sunken Meadow Fields-Softball-14,,,"11,","25,",2021-09-18,13:00:00,2021-09-18,17:00:00
+523222.0,miscellaneous,Parks Department,Special Event,Manhattan,"Randall's Island Park: Wards Meadow Picnic Area Blue ,Randall's Island Park: Wards Meadow Fields-Soccer-70 ,Randall's Island Park: Wards Meadow Fields-Soccer-73 ,Randall's Island Park: Wards Meadow Fields-Soccer-74 ,Randall's Island Park: Wards Meadow Fields-Soccer-75 ,Randall's Island Park: East River Fields-Soccer-80 ,Randall's Island Park: East River Fields-Soccer-81 ,Randall's Island Park: East River Fields-Soccer-82 ,Randall's Island Park: East River Fields-Soccer-83 ,Randall's Island Park:",,,"11, ","25, ",2021-08-29,09:00:00,2021-08-29,14:00:00
+741599.0,puerto rican day parade 2024,Parks Department,Special Event,Manhattan,"Central Park: East Drive   ,Central Park: Arsenal ,Central Park: Arsenal Plaza ,Central Park: Cedar Hill ,Central Park: Dene Lawn ,Central Park: East 72nd Street Playground Lawns ,Central Park: Grand Army Plaza - Pulitzer Fountain ,Central Park: Grand Army Plaza - Sherman Statue ,Central Park: Grand Army Plaza West Sidewalks ,Central Park: Hans Christian Anderson Statue ,Central Park: Johnson Playground Lawns ,Central Park: Kerbs Boathouse ,Central Park: Lawn North of Levin Playground ,Central Park: Lawn Outside Levin Playground (Section A) ,Central Park: Lawn Outside Levin Playground (Section B) ,Central Park: Lawn Behind the Met Museum ,Central Park: Pilgrim Hill ,Central Park: The Pond Lawns ,Central Park: Wein Walk A",,,"5, 64, 8,","18, 19, 22,",2024-06-09,00:00:00,2024-06-09,22:00:00
+779168.0,1199 employment center recruitment event,Parks Department,Special Event,Staten Island,Willowbrook Park: Carousel Lawn,,,"2,","122,",2024-08-05,10:00:00,2024-08-05,15:00:00
+523889.0,coney island reggae on the boardwalk,Parks Department,Special Event,Brooklyn,Coney Island Beach & Boardwalk: West 21st St Performance Area ,,,"13, ","60, ",2021-09-12,15:00:00,2021-09-12,19:00:00
+710058.0,gotham coed intergenerational softball (710057),Parks Department,Special Event,Queens,Alley Pond Park: Springfield-Softball-08,,,"11,","111,",2023-09-23,11:30:00,2023-09-23,13:30:00
+630562.0,house sessions made deep in brooklyn,Parks Department,Special Event,Brooklyn,American Veterans Memorial Pier: American Veterans Memorial Pier,,,"10,","68,",2022-07-16,12:00:00,2022-07-16,20:00:00
+574241.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Canarsie Park: Cricket-02 ,Canarsie Park: Cricket-01 ",,,"18, ","69, ",2021-08-20,09:00:00,2021-08-20,16:00:00
+739254.0,artists' residency,Parks Department,Special Event,Manhattan,Washington Square Park: Northwest Corner Plaza,,,"2,","6,",2024-09-21,13:00:00,2024-09-21,15:00:00
+700744.0,brownsville oldtimers week,Parks Department,Special Event,Brooklyn,"Brownsville Recreation Center Playground: Brownsville Playground ,Brownsville Recreation Center Playground: Softball-01 ,Brownsville Recreation Center Playground: Basketball-01 ,Brownsville Recreation Center Playground: Basketball-02",,,"16,","73,",2023-07-29,10:00:00,2023-07-29,21:00:00
+545882.0,miscellaneous,Parks Department,Special Event,Manhattan,Abe Lebewohl Triangle: Sitting Area ,,,"3, ","9, ",2021-06-23,09:00:00,2021-06-23,13:00:00
+766360.0,miscellaneous,Parks Department,Special Event,Manhattan,Dry Dock Playground: Basketball-01,,,"03,","9,",2024-07-31,09:30:00,2024-07-31,12:30:00
+690486.0,neighbor's day,Parks Department,Special Event,Queens,"Electric Playground / Elechester Playground: Electric Playground ,Electric Playground / Elechester Playground: Softball-01",,,"08, 8,","107,",2023-06-03,14:00:00,2023-06-03,16:00:00
+662822.0,samaritan daytop village staff appreciation,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Ederle Terrace - BBQ area Purple,,,"81,","110,",2022-09-30,12:00:00,2022-09-30,17:00:00
+560725.0,wednesday weeders - april,Parks Department,Special Event,Manhattan,Washington Square Park: Washington Square Park ,,,"2, ","6, ",2021-04-28,09:00:00,2021-04-28,12:00:00
+576790.0,drive thru graduation,Police Department,Parade,Bronx," BEDFORD PARK BL WEST between PAUL AVENUE and GOULDEN AVENUE,  BEDFORD PARK BL WEST between PAUL AVENUE and GOULDEN AVENUE,  BEDFORD PARK BOULEVARD WEST between PAUL AVENUE and GOULDEN AVENUE",Both,Full Street Closure ,"7, ","52, ",2021-06-25,11:00:00,2021-06-25,14:00:00
+611008.0,pitkin avenue holiday tree lighting,Parks Department,Special Event,Brooklyn,Zion Triangle: Zion Triangle,,,"16,","73,",2022-01-05,14:00:00,2022-01-05,19:00:00
+797434.0,event support,Street Activity Permit Office,Production Event,Bronx,EAST  148 STREET between WILLIS AVENUE and BERGEN AVENUE,North,Curb Lane Only,"1,","40,",2024-07-18,00:00:00,2024-07-31,23:59:00
+662169.0,clara barton high school breast cancer awareness relay race,Parks Department,Special Event,Brooklyn,Prospect Park: Grand Army Plaza Picnic Area,,,"55,","78,",2022-10-21,15:00:00,2022-10-21,16:00:00
+774014.0,chess tournaments,Parks Department,Special Event,Manhattan,Bryant Park: Fountain Terrace,,,"5,","14,",2024-09-29,10:00:00,2024-09-29,17:00:00
+625312.0,letters to the trees,Parks Department,Special Event,Manhattan,Madison Square Park: Madison Square Park,,,"5,","13,",2022-04-25,12:00:00,2022-04-25,23:00:00
+809537.0,art  craft showcase,Parks Department,Special Event,Brooklyn,Marine Park: Lawn (Fillmore Avenue),,,"18,","63,",2024-11-16,12:00:00,2024-11-16,15:00:00
+575144.0,miscellaneous,Parks Department,Special Event,Bronx,Pelham Bay Park: Track-01 ,,,"28, ","45, ",2021-09-25,09:00:00,2021-09-25,11:00:00
+568640.0,jusiah's graduation,Parks Department,Special Event,Brooklyn,Prospect Park: Picnic House North ,,,"55, ","78, ",2021-06-26,13:00:00,2021-06-26,18:30:00
+701413.0,carnival,Parks Department,Special Event,Staten Island,Inwood Park (Greencroft): Softball-01,,,"03,","122,",2023-06-23,08:15:00,2023-06-23,14:00:00
+559995.0,kensington farm stand,Parks Department,Special Event,Brooklyn,Albemarle Playground (PS 230): Albemarle Playground (PS 230),,,"12,","66,",2021-11-20,00:00:00,2021-11-20,15:00:00
+810029.0,bloomreach edge summit,Street Activity Permit Office,Production Event,Manhattan,WEST   49 STREET between 12 AVENUE and 11 AVENUE,South,Curb Lane Only,"4,","18,",2024-10-02,15:00:00,2024-10-02,22:00:00
+627455.0,miscellaneous,Parks Department,Special Event,Manhattan,"Riverside Park: 107th/108th St-Soccer-01 E ,Riverside Park: 107th/108th St-Soccer-01A ,Riverside Park: 107th/108th St-Soccer-01B ,Riverside Park: 107th/108th St-Softball-06 ,Riverside Park: 107th/108th St-Softball-07",,,"07,","24,",2022-06-10,08:00:00,2022-06-10,14:00:00
+610190.0,house in harlem,Parks Department,Special Event,Manhattan,Tompkins Square Park: Old Bandshell,,,"3,","9,",2022-07-30,14:00:00,2022-07-30,18:00:00
+596374.0,summer nights,Street Activity Permit Office,Plaza Event,Brooklyn,Myrtle Avenue Plaza: Myrtle Avenue Plaza MYRTLE AVENUE between GRAND AVENUE and EMERSON PLACE,Full,Pedestrian Plaza,"2,","88,",2021-09-24,17:00:00,2021-09-26,20:00:00
+718390.0,miscellaneous,Parks Department,Special Event,Brooklyn,Kaiser Park: Football-01,,,"13,","60,",2023-06-14,09:00:00,2023-06-14,14:00:00
+637548.0,miscellaneous,Parks Department,Special Event,Queens,Cunningham Park: Picnic Green 2,,,"8,","107,",2022-05-26,08:00:00,2022-05-26,14:00:00
+679956.0,summer on the hudson little red lighthouse festival,Parks Department,Special Event,Manhattan,"Fort Washington Park: Little Red Lighthouse Picnic Area ,Fort Washington Park: Little Red Lighthouse Waterfront",,,"12,","33,",2023-10-07,12:00:00,2023-10-07,16:00:00
+628996.0,miscellaneous,Parks Department,Special Event,Manhattan,"Sara D. Roosevelt Park: Houston St Plgd-Basketball-01 ,Sara D. Roosevelt Park: Houston St Plgd-Basketball-02",,,"03,","5,",2022-07-18,10:00:00,2022-07-18,14:00:00
+631410.0,billion oyster project reef monitoring coney island,Parks Department,Special Event,Brooklyn,Kaiser Park: BBQ Area North,,,"13,","60,",2022-10-27,07:00:00,2022-10-27,19:00:00
+681575.0,greenpoint avenue fair,Street Activity Permit Office,Street Festival,Queens,"GREENPOINT AVENUE between 42 STREET and 48 STREET,  46 STREET between QUEENS BOULEVARD and GREENPOINT AVENUE",Full,Full Street Closure,"2,","108,",2023-10-14,10:00:00,2023-10-14,18:00:00
+796855.0,art club pop up: urban park rangers appreciation day,Parks Department,Special Event,Queens,Hammel Playground: Hammel Playground,,,"14,","100,",2024-07-30,15:30:00,2024-07-30,17:30:00
+609293.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Manhattan Beach Park: Softball-01 ,Manhattan Beach Park: Pat Parlato Playground Lawn Area ,Manhattan Beach Park: Picnic Area 01",,,"15,","61,",2022-05-19,09:00:00,2022-05-19,14:00:00
+717017.0,!porto deliv. 6/23 for 6/24. pickup 6/28. for gaelic fld.,Parks Department,Special Event,Bronx,Van Cortlandt Park: Gaelic-Football-01,,,"26,","47,",2023-06-24,09:00:00,2023-06-24,18:00:00
+550679.0,sss cpe78 spring 21 june,Parks Department,Special Event,Manhattan,Central Park: Lawn North of Levin Playground ,,,"64, ","22, ",2021-06-24,15:30:00,2021-06-24,17:30:00
+628307.0,graduation,Parks Department,Special Event,Queens,Forest Park: Bandshell and Seating,,,"82,","102,",2022-06-22,13:00:00,2022-06-22,15:00:00
+700817.0,july practice,Parks Department,Special Event,Manhattan,Central Park: Bowling Green Lawn,,,"64,","22,",2023-07-31,08:15:00,2023-07-31,20:00:00
+673846.0,big apple circus,Parks Department,Special Event,Manhattan,"Damrosch Park: Bandshell ,Damrosch Park: Tent Area",,,"7,","20,",2023-01-11,00:00:00,2023-01-11,23:59:00
+812108.0,madison square park sukkah 2,Parks Department,Special Event,Manhattan,Madison Square Park: Farragut Lawn,,,"5,","13,",2024-10-27,00:00:00,2024-10-27,23:59:00
+769725.0,youth sports,Parks Department,Special Event,Manhattan,Central Park: East 102nd St Clay Oval,,,"64,","22,",2024-06-28,13:00:00,2024-06-28,17:00:00
+611008.0,pitkin avenue holiday tree lighting,Parks Department,Special Event,Brooklyn,Zion Triangle: Zion Triangle,,,"16,","73,",2022-01-05,14:00:00,2022-01-05,19:00:00
+661177.0,re:new volunteer corps,Parks Department,Special Event,Brooklyn,Prospect Park: Grand Army Plaza Entrance,,,"55,","78,",2022-08-12,10:00:00,2022-08-12,13:00:00
+814737.0,2024.11.08.09.16 idlewild park tree plantings,Parks Department,Special Event,Queens,Idlewild Park: Idlewild Park,,,"13,","105,",2024-11-08,10:00:00,2024-11-08,13:00:00
+705967.0,2023.05..20 alley pond park forest restoration,Parks Department,Special Event,Queens,Alley Pond Park: Trails - Winchester Blvd & Grand Central Pkwy,,,"11,","111,",2023-05-20,10:00:00,2023-05-20,13:00:00
+752760.0,soca aerobics,Parks Department,Special Event,Queens,Roy Wilkins Park: Performance Space,,,"12,","113,",2024-05-18,09:00:00,2024-05-18,19:00:00
+724087.0,farewell brunch,Parks Department,Special Event,Brooklyn,Prospect Park: Bandshell North,,,"55,","78,",2023-09-09,10:00:00,2023-09-09,12:00:00
+680341.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Marine Park: Softball-01 ,Marine Park: Softball-09 ,Marine Park: Softball-10",,,"18,","63,",2023-05-10,09:30:00,2023-05-10,14:00:00
+545814.0,miscellaneous,Parks Department,Special Event,Manhattan,De Witt Clinton Park: Softball-01 ,,,"04, ","18, ",2021-06-24,08:00:00,2021-06-24,11:00:00
+786032.0,miscellaneous,Parks Department,Special Event,Manhattan,"Central Park: Great Lawn South West Lawn ,Central Park: Great Lawn-Softball-04",,,"64,","22,",2024-06-27,17:00:00,2024-06-27,19:00:00
+738465.0,dancing in the park,Parks Department,Special Event,Queens,Springfield Park: Springfield Park,,,"13,","105,",2024-08-03,15:00:00,2024-08-03,19:00:00
+632081.0,pray for new york procession,Police Department,Parade,Queens,"MAIN STREET between KISSENA BOULEVARD and 41 AVENUE,  MAIN STREET between KISSENA BOULEVARD and NORTHERN BOULEVARD,  NORTHERN BOULEVARD between MAIN STREET and PARSONS BOULEVARD,  PARSONS BOULEVARD between NORTHERN BOULEVARD and NEGUNDO AVENUE,  NEGUNDO AVENUE between PARSONS BOULEVARD and KISSENA BOULEVARD,  KISSENA BOULEVARD between NEGUNDO AVENUE and ELDER AVENUE,  ELDER AVENUE between KISSENA BOULEVARD and MAIN STREET,  MAIN STREET between ELDER AVENUE and KISSENA BOULEVARD,  MAIN STREET be",East,Full Street Closure,"7,","109,",2022-05-08,11:30:00,2022-05-08,14:00:00
+582285.0,pop-ups with project.kb,Parks Department,Special Event,Brooklyn,Osborn Playground (IS 275): Multi Purpose Play Area-01 ,,,"16, ","73, ",2021-08-01,12:00:00,2021-08-01,16:00:00
+798319.0,nypd 66th pct yco summer camp family day,Parks Department,Special Event,Brooklyn,"Colonel David Marcus Playground: Softball-01   ,Colonel David Marcus Playground: Basketball-01 ,Colonel David Marcus Playground: Handball-04 ,Colonel David Marcus Playground: Handball-05",,,"12,","66,",2024-08-16,10:00:00,2024-08-16,14:00:00
+679789.0,summer on the hudson mamapalooza,Parks Department,Special Event,Manhattan,"Riverside Park South: 70th Street Pier Plaza ,Riverside Park South: Pier I Cafe ,Riverside Park South: Little Engine Playground ,Riverside Park South: Locomotive Picnic Area",,,"7,","20,",2023-05-21,12:00:00,2023-05-21,17:00:00
+598959.0,mozart for munchkins,Parks Department,Special Event,Manhattan,Central Park: Diana Ross Playground Lawn,,,"64,","22,",2021-09-29,10:00:00,2021-09-29,10:45:00
+699473.0,august photography,Parks Department,Special Event,Staten Island,Silver Lake Park: Reservoir Circumference,,,"1,","120,",2023-10-29,09:00:00,2023-10-29,15:00:00
+585294.0,summer fitness  ,Street Activity Permit Office,Plaza Event,Brooklyn,Myrtle Avenue Plaza: Myrtle Avenue Plaza MYRTLE AVENUE between GRAND AVENUE and EMERSON PLACE,Full,Pedestrian Plaza ,"2, ","88, ",2021-08-28,08:30:00,2021-08-28,11:00:00
+701083.0,waterford pairs,Parks Department,Special Event,Manhattan,Central Park: Bowling Green Lawn,,,"64,","22,",2023-07-15,08:15:00,2023-07-15,20:00:00
+681210.0,sss cpw94 spring 23 june,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape A,,,"64,","22,",2023-06-13,13:30:00,2023-06-13,17:30:00
+629937.0,miscellaneous,Parks Department,Special Event,Queens,Kissena Corridor West: Kissena Corridor Park,,,"7,","109,",2022-05-19,09:00:00,2022-05-19,15:00:00
+591394.0,miscellaneous,Parks Department,Special Event,Manhattan,"Highbridge Park: Wallenberg Plgd-Basketball-04 ,Highbridge Park: Wallenberg Plgd-Basketball-05 ",,,"12, ","34, ",2021-08-19,09:00:00,2021-08-19,16:00:00
+676740.0,east coast car association toys for tots,Police Department,Parade,Queens,"Forest Park: Bandshell and Seating Forest Park between Bandshell and s,  FOREST PARK DRIVE WB EN JRP between FOREST PARK DRIVE and JRP, 29-01 216 STREET, JACKIE ROBINSON PKWY between FORREST PAK DRIVE and GCP,  GRAND CENTRAL PARKWAY between JACKIE ROBINSON PKWY and CLEARVIEW EXWY,  CLEARVIEW EXWY between GRAND CENTRAL PARKWAY and 35TH AVE EXIT 6A,  35 AV between CLEARVIEW EXWY and BELL BLVD,  BELL BLVD between 35 AV and 29 AV,  29 AVENUE between BELL BOULEVARD and 216 STREET",Full,Full Street Closure,"11, 5, 6, 8, 82,","102, 104, 107, 111,",2022-11-13,12:30:00,2022-11-13,14:00:00
+550757.0,aa cpe102 spr21 june,Parks Department,Special Event,Manhattan,Central Park: East 102nd St Clay Oval ,,,"64, ","22, ",2021-06-30,13:30:00,2021-06-30,17:30:00
+634471.0,miscellaneous,Parks Department,Special Event,Brooklyn,"McGuire Fields: Softball-02 ,McGuire Fields: Baseball-03 ,McGuire Fields: Softball-04 ,McGuire Fields: Baseball-05",,,"18,","63,",2022-05-20,09:00:00,2022-05-20,14:00:00
+680952.0,broadway lincoln center fair,Street Activity Permit Office,Street Festival,Manhattan,BROADWAY between WEST   60 STREET and WEST   65 STREET,Full,Full Street Closure,"7,","20,",2023-05-14,10:00:00,2023-05-14,18:00:00
+784067.0,concert,Parks Department,Special Event,Manhattan,Marcus Garvey Park: Amphitheater,,,"11,","25,",2024-08-12,15:00:00,2024-08-12,19:00:00
+609608.0,charile parker jazz festival,Parks Department,Special Event,Manhattan,"Tompkins Square Park: Temperance Fountain Plaza ,Tompkins Square Park: Old Bandshell ,Tompkins Square Park: Softball-01",,,"03, 3,","9,",2022-08-28,15:00:00,2022-08-28,22:00:00
+546208.0,miscellaneous,Parks Department,Special Event,Manhattan,Baruch Playground: Basketball-01 ,,,"03, ","7, ",2021-06-23,08:00:00,2021-06-23,11:00:00
+584773.0,1er cuadrangular de softball copa cerveza polar ny,Parks Department,Special Event,Manhattan,Randall's Island Park: Bronx Shore Fields-Softball-09 ,,,"11, ","25, ",2021-08-07,10:00:00,2021-08-07,19:00:00
+700817.0,july practice,Parks Department,Special Event,Manhattan,Central Park: Bowling Green Lawn,,,"64,","22,",2023-07-31,08:15:00,2023-07-31,20:00:00
+679732.0,sumer on the hudson zumba,Parks Department,Special Event,Manhattan,West Harlem Piers: Excursion Pier,,,"9,","26,",2023-09-30,11:00:00,2023-09-30,12:00:00
+603301.0,cumbianza,Parks Department,Special Event,Queens,Juniper Valley Park: Picnic Area 02,,,"5,","104,",2021-10-13,17:00:00,2021-10-13,18:00:00
+678755.0,menorah placement 2022,Parks Department,Special Event,Brooklyn,Prospect Park: Vanderbilt Lawn,,,"55,","78,",2023-01-04,13:00:00,2023-01-04,14:00:00
+551132.0,nycruns central park half marathon or 4 mile event,Parks Department,Special Event,Manhattan,"Central Park: 102nd Street Transverse ,Central Park: Center Loop ",,,"64, ","22, ",2021-02-28,08:00:00,2021-02-28,14:00:00
+601542.0,adult movement  classes,Parks Department,Special Event,Manhattan,Washington Square Park: Garibaldi Plaza,,,"2,","6,",2021-12-28,09:00:00,2021-12-28,12:00:00
+681282.0,july-uws- adventure playground,Parks Department,Special Event,Manhattan,Central Park: Adventure Playground Lawn,,,"64,","22,",2023-07-31,13:00:00,2023-07-31,16:00:00
+743930.0,sss cpe78 fall24 nov,Parks Department,Special Event,Manhattan,Central Park: Lawn North of Levin Playground,,,"64,","22,",2024-11-21,15:30:00,2024-11-21,17:00:00
+635870.0,queensbridge spring festival,Parks Department,Special Event,Queens,Queensbridge Park: Multi Purpose Play Area-01,,,"01,","114,",2022-06-04,13:00:00,2022-06-04,16:00:00
+818048.0,not-a-normal market,Street Activity Permit Office,Production Event,Manhattan,7 AVENUE between WEST   16 STREET and WEST   17 STREET,East,Sidewalk and Curb Lane Closure,"4,","10, 13,",2024-12-06,10:00:00,2024-12-08,17:00:00
+705299.0,nycal league xc meets fall 2023,Parks Department,Special Event,Bronx,Van Cortlandt Park: Cross Country Parade Ground East Side 1,,,"26,","50,",2023-10-31,15:00:00,2023-10-31,18:00:00
+726790.0,insect walk with steve nanz,Parks Department,Special Event,Queens,Highland Park: Reservoir Path,,,"5,","104,",2023-08-06,12:30:00,2023-08-06,14:00:00
+753592.0,sunday holy hours - sept 2024,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Vatican Pavillion,,,"81,","110,",2024-09-22,10:00:00,2024-09-22,13:00:00
+727367.0,children's day,Parks Department,Special Event,Queens,Frederick B. Judge Playground: Frederick B. Judge Playground,,,"10,","106,",2023-07-22,10:00:00,2023-07-22,18:00:00
+754030.0,3rd birthday,Parks Department,Special Event,Brooklyn,Prospect Park: Picnic House North,,,"55,","78,",2024-06-15,09:00:00,2024-06-15,12:00:00
+774906.0,travis 4th of july parade,Police Department,Parade,Staten Island,"CANNON AVENUE between GLEN STREET and VICTORY BOULEVARD,  GLEN STREET between CANNON AVENUE and VICTORY BOULEVARD,  VICTORY BOULEVARD between CANNON AVENUE and GLEN STREET",Both,Full Street Closure,"2,","121,",2024-07-04,12:00:00,2024-07-04,15:00:00
+569595.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Marine Park: Softball-03 ,Marine Park: Softball-04 ",,,"18, ","63, ",2021-08-18,11:00:00,2021-08-18,15:00:00
+699827.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Marine Park: Softball-11 ,Marine Park: Softball-12 ,Marine Park: Softball-13 ,Marine Park: Softball-01 ,Marine Park: Softball-02 ,Marine Park: Softball-03",,,"18,","63,",2023-05-18,09:00:00,2023-05-18,14:00:00
+749661.0,miscellaneous,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape B,,,"64,","22,",2024-07-31,09:00:00,2024-07-31,16:00:00
+569899.0,miscellaneous,Parks Department,Special Event,Brooklyn,Slope Park: Slope Park ,,,"7, ","72, ",2021-08-27,08:00:00,2021-08-27,14:00:00
+611334.0,kids yoga,Parks Department,Special Event,Manhattan,Washington Square Park: East Playground Sitting Area,,,"2,","6,",2022-09-28,10:30:00,2022-09-28,11:30:00
+787277.0,volunteer landscaping and cleanup at ridgewood reservoir,Parks Department,Special Event,Queens,Highland Park: Reservoir Path,,,"5,","104,",2024-10-06,10:00:00,2024-10-06,12:00:00
+559843.0,monday sweep at forest park,Parks Department,Special Event,Queens,Forest Park: Bandshell and Seating ,,,"82, ","102, ",2021-02-22,09:00:00,2021-02-22,11:00:00
+625115.0,miscellaneous,Parks Department,Special Event,Bronx,Van Cortlandt Park: Stables Lawn,,,"26,","50,",2022-06-17,09:00:00,2022-06-17,14:00:00
+706089.0,fathers day basketball game,Parks Department,Special Event,Manhattan,"Fred Samuel Playground: Fred Samuel Playground ,Fred Samuel Playground: Basketball-01",,,"10,","32,",2023-06-18,09:00:00,2023-06-18,19:00:00
+753285.0,novas birthday,Parks Department,Special Event,Brooklyn,Prospect Park: Grecian Shelter/Peristyle Lawn West,,,"55,","78,",2024-08-24,09:00:00,2024-08-24,19:00:00
+550728.0,sss cpw94 spring 21 june,Parks Department,Special Event,Manhattan,Central Park: North Reservoir Landscape A ,,,"64, ","22, ",2021-06-30,13:30:00,2021-06-30,17:30:00
+771619.0,miscellaneous,Parks Department,Special Event,Queens,Addabbo Park: Pals Oval-Soccer-01,,,"10,","106,",2024-07-18,08:00:00,2024-07-18,16:00:00
+740044.0,bike safety class- mccarren - october,Parks Department,Special Event,Brooklyn,McCarren Park: Bayard/Union Lawns,,,"1,","94,",2023-10-22,10:00:00,2023-10-22,16:00:00
+739678.0,lexi- proposal,Parks Department,Special Event,Brooklyn,Prospect Park: Grecian Shelter/Peristyle Lawn West,,,"55,","78,",2023-11-04,15:00:00,2023-11-04,17:00:00
+559368.0,pied piper spring musical - oklahoma,Parks Department,Special Event,Manhattan,Fort Tryon Park: Dongan Lawn ,,,"12, ","34, ",2021-06-13,14:00:00,2021-06-13,18:00:00
+631469.0,miscellaneous,Parks Department,Special Event,Manhattan,"Randall's Island Park: East River Fields-Soccer-80 ,Randall's Island Park: East River Fields-Soccer-81",,,"11,","25,",2022-05-27,09:15:00,2022-05-27,13:15:00
+552222.0,nysom winter park cleanup and giveaways,Parks Department,Special Event,Brooklyn,Bushwick Playground: Sitting Area ,,,"4, ","83, ",2021-01-24,12:00:00,2021-01-24,13:00:00
+743878.0,manhattan turkey trot,Parks Department,Special Event,Manhattan,"Randall's Island Park: Flagpole Plaza and Lawns ,Randall's Island Park: Asphalt Pad ,Randall's Island Park: Harlem River Event Area ,Randall's Island Park: Park Paths and Roadways",,,"11,","25,",2024-11-17,09:00:00,2024-11-17,10:00:00
+743712.0,sss cpe97c fall24 nov,Parks Department,Special Event,Manhattan,Central Park: East Meadow Clay Area,,,"64,","22,",2024-11-22,13:30:00,2024-11-22,17:30:00
+573400.0,evening meditation series,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Flushing Meadows Corona Park ,,,"3, 4, 6, 7, 8, ","110, ",2021-08-31,19:00:00,2021-08-31,20:00:00
+579432.0,in the park before dark with council member borelli,Parks Department,Special Event,Staten Island,Bloomingdale Park: Lawn Space ,,,"3, ","123, ",2021-06-01,10:00:00,2021-06-01,16:00:00
+630711.0,miscellaneous,Parks Department,Special Event,Queens,Rosemary's Playground: Rosemary's Playground,,,"5,","104,",2022-06-21,08:00:00,2022-06-21,14:00:00
+688984.0,"world aids marathon, half, 10 and 5k",Parks Department,Special Event,Queens,Rockaway Beach Boardwalk: Beach 108th Street,,,"14,","100,",2023-12-01,10:00:00,2023-12-01,16:30:00
+756489.0,miscellaneous,Parks Department,Special Event,Brooklyn,"Railroad Playground: Multi Purpose Play Area-01   ,Railroad Playground: Plaza ,Railroad Playground: Basketball-01",,,"17,","67,",2024-06-13,09:00:00,2024-06-13,14:00:00
+696172.0,play and sustainability in bedstuy,Parks Department,Special Event,Brooklyn,Decatur Playground (PS 35): Sitting Area,,,"3,","81,",2023-06-03,11:00:00,2023-06-03,15:00:00
+738553.0,playing music,Parks Department,Special Event,Queens,Rockaway Beach and Boardwalk: Beach 94th Street,,,"14,","100,",2024-07-13,16:00:00,2024-07-13,20:00:00
+787166.0,"68, 712, 727 - free community paddling in cpp june and july -",Parks Department,Special Event,Bronx,Concrete Plant Park: Concrete Plant Park,,,"2,","41,",2024-07-27,09:00:00,2024-07-27,16:00:00
+546247.0,miscellaneous,Parks Department,Special Event,Manhattan,Tompkins Square Park: Softball-01 ,,,"03, ","9, ",2021-06-23,08:00:00,2021-06-23,11:00:00
+788049.0,queens college summer series,Parks Department,Special Event,Queens,Flushing Meadows Corona Park: Flushing Meadows Corona Park,,,"3, 4, 6, 7, 8,","110,",2024-07-20,12:00:00,2024-07-20,17:00:00
+583076.0,nypd patrol borough summer of growth park cleanup,Parks Department,Special Event,Staten Island,Bloomingdale Park: Trails   ,,,"3, ","123, ",2021-08-17,11:00:00,2021-08-17,15:00:00
+795538.0,cipriani events,Street Activity Permit Office,Production Event,Manhattan,EXCHANGE PLACE between WILLIAM STREET and HANOVER STREET,North,Curb Lane Only,"1,","1,",2024-07-14,00:30:00,2024-07-14,23:30:00
+561914.0,watercolor art workshop,Parks Department,Special Event,Manhattan,Vincent F. Albano Jr. Playground: Vincent F. Albano Jr. Playground ,,,"6, ","13, ",2021-05-18,12:00:00,2021-05-18,14:00:00
+786272.0,fathers day,Parks Department,Special Event,Queens,Forest Park: BBQ Area Grey,,,"82,","102,",2024-06-15,10:00:00,2024-06-15,18:00:00
+596420.0,outreach at the beach with assembly member cymbrowitz,Parks Department,Special Event,Brooklyn,Manhattan Beach Park: Boardwalk ,,,"15, ","61, ",2021-08-30,10:00:00,2021-08-30,16:00:00
