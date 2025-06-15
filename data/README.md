@@ -10,14 +10,14 @@ This directory contains sample data and instructions for sourcing and processing
 
 ## Data Sources & Sampling
 
-| Domain      | Dataset                | Sample File                   | Original Source / Generation Method                   | Notes                       |
-|-------------|------------------------|-------------------------------|------------------------------------------------------|-----------------------------|
-| Crime       | NYPD Complaint Data    | sample_nypd_complaints_2021.csv | [NYC OpenData](https://opendata.cityofnewyork.us)    | Sampled 1000 rows from 2021 |
-| Verified HT | TAHub Metro NY Reports | sample_ht_reports.csv         | Metro Analytics (non-public)                         | Synthetic/anonymized        |
-| Events      | NYC Permitted Events   | sample_events_2022.csv        | NYC OpenData                                         | Sampled 500 events          |
-| Mobility    | JFK Passenger Volume   | sample_jfk_mobility.csv       | Port Authority NY/NJ                                 | Monthly, 2021-2022          |
-| Geography   | NYC Borough Boundaries | sample_boroughs.geojson       | Generated with `geopandas` Python library            | See `src/create_geo.py`     |
-| Calendar    | US Holidays & Weekends | sample_calendar.csv           | Generated with `holidays` Python library             | See `src/create_calendar.py`|
+| Domain      | Dataset                | Sample File                               | Original Source / Generation Method                | Notes                                     |
+|-------------|------------------------|-------------------------------------------|---------------------------------------------------|-------------------------------------------|
+| Crime       | NYPD Complaint Data    | sample_nypd_complaints_2021_2024.csv      | [NYC OpenData](https://opendata.cityofnewyork.us) | Sampled 1000 rows from 2021               |
+| Verified HT | TAHub Metro NY Reports | sample_ht_reports.csv                     | Metro Analytics (non-public)                      | Synthetic/anonymized                      |
+| Events      | NYC Permitted Events   | sample_filtered_events_v2.csv              | NYC OpenData                                      | Sampled 1000 events                       |
+| Mobility    | JFK Passenger Volume   | Passenger_volume_JFKinbound_2021_2024.csv | [Port Authority NY/NJ](https://www.panynj.gov/)   | Full file included (small, public dataset) |
+| Geography   | NYC Borough Boundaries | sample_boroughs.geojson                   | Generated with `geopandas` Python library         | See `src/create_geo.py`                   |
+| Calendar    | US Holidays & Weekends | sample_calendar.csv                       | Generated with `holidays` Python library          | See `src/create_calendar.py`              |
 
 *See the [project report](../reports/Project%20Final%20Report_Advanced%20Analytics%20Practicum_MetroAnalytics%20Team2.pdf) for full data preprocessing details.*
 
