@@ -38,11 +38,11 @@ This project builds a **multi-layered modeling pipeline** to forecast risk using
 
 ## 📁 Project Structure
 
-- [data/](./data/) – Sample datasets (geo-grid structure, sample events); full data sources listed below
-- [notebooks/](./notebooks/) – EDA, ML model trials, LSTM sequence modeling
-- [src/](./src/) – Data wrangling scripts, grid assignment, feature engineering
-- [models/](./models/) – Saved model weights and LSTM architecture
-- [reports/](./reports/) – Visualizations, ROC curves, clustering maps
+- `data/` – Sample datasets (geo-grid structure, sample events); full data sources listed below
+- `notebooks/` – EDA, ML model trials, LSTM sequence modeling
+- `src/` – Data wrangling scripts, grid assignment, feature engineering
+- `models/` – Saved model weights and LSTM architecture
+- `reports/` – Visualizations, ROC curves, clustering maps
 
 ---
 
@@ -52,7 +52,7 @@ Due to GitHub file size limits, full datasets are **not uploaded**. You can recr
 
 | Domain         | Dataset                     | Source                                            | Timeframe         |
 |----------------|-----------------------------|---------------------------------------------------|-------------------|
-| Crime          | NYPD Complaint Data         | [NYC OpenData](https://opendata.cityofnewyork.us) | Jan 2021–Dec 2024 |
+| Crime          | NYPD Complaint Data         | NYC OpenData                                      | Jan 2021–Dec 2024 |
 | Verified HT    | TAHub Metro NY Reports      | Metro Analytics (non-public)                      | Jan 2021–Dec 2024 |
 | Events         | NYC Permitted Events        | NYC OpenData                                      | Jan 2021–Dec 2024 |
 | Mobility       | JFK Passenger Volume        | Port Authority NY/NJ                              | Monthly (scaled)  |
@@ -88,3 +88,23 @@ Due to GitHub file size limits, full datasets are **not uploaded**. You can recr
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/human-trafficking-risk-prediction.git
+   ```
+2. (Coming soon) Install dependencies and run notebooks/scripts as described in the upcoming documentation.
+
+---
+
+## 📄 Project Report
+
+A full technical report is included in the `reports/` directory (to be added).
+
+---
+
+## 📫 Contact
+
+For questions or collaboration, please reach out to [your.email@domain.com] or open an issue.
+
+---
+
+## ⚖️ License
+
+This project will be released under an open-source license (to be specified).
